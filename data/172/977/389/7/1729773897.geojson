@@ -2,10 +2,12 @@
   "id": 1729773897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-07",
+    "date:cessation_upper": "2021-02-07",
     "date:inception_lower": "2021-02-07",
     "date:inception_upper": "2021-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-07",
+    "edtf:cessation": "2021-02-07T04:04:40-08:00",
+    "edtf:inception": "2021-02-07T18:52:00Z",
     "flysfo:actual_timestamp": 1612728480,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.611928,
     "lbl:longitude": -122.384927,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N411WN",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148724632"
+    },
     "wof:country": "US",
     "wof:created": 1612816709,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1729773897,
     "wof:involves": [
-      102527513, 
-      102528997, 
       1159285591, 
-      1477881733
+      1477881733, 
+      1159289869, 
+      102527513, 
+      102528997
     ],
-    "wof:lastmodified": 1612816709,
+    "wof:lastmodified": 1612817088,
     "wof:name": "WN1362 (SAN-SFO)",
     "wof:parent_id": 1477881733,
     "wof:placetype": "event",

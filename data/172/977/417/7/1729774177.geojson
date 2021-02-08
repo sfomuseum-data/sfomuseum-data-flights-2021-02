@@ -2,10 +2,12 @@
   "id": 1729774177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-07",
+    "date:cessation_upper": "2021-02-07",
     "date:inception_lower": "2021-02-07",
     "date:inception_upper": "2021-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-07",
+    "edtf:cessation": "2021-02-07T08:40:33-08:00",
+    "edtf:inception": "2021-02-07T23:10:00Z",
     "flysfo:actual_timestamp": 1612745160,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N65832",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +57,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148739708",
+      "swim:gufi": "KU74111100"
+    },
     "wof:country": "US",
     "wof:created": 1612816783,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1729774177,
     "wof:involves": [
+      1377564285, 
       102527513, 
       102527363, 
       1159285413, 
       1477930445
     ],
-    "wof:lastmodified": 1612816783,
+    "wof:lastmodified": 1612817089,
     "wof:name": "UA620 (SLC-SFO)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

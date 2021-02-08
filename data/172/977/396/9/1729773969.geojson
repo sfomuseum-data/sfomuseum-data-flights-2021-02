@@ -2,10 +2,12 @@
   "id": 1729773969,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-07",
+    "date:cessation_upper": "2021-02-07",
     "date:inception_lower": "2021-02-07",
     "date:inception_upper": "2021-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-07",
+    "edtf:cessation": "2021-02-07T08:20:21-08:00",
+    "edtf:inception": "2021-02-07T22:27:00Z",
     "flysfo:actual_timestamp": 1612743900,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.612295,
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534217,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N440UA",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148737081",
+      "swim:gufi": "KU72358100"
+    },
     "wof:country": "US",
     "wof:created": 1612816728,
     "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1729773969,
     "wof:involves": [
+      1159292085, 
       102527513, 
       102534217, 
       1159285413, 
       1477930435
     ],
-    "wof:lastmodified": 1612816728,
+    "wof:lastmodified": 1612817088,
     "wof:name": "UA1257 (JAC-SFO)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

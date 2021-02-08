@@ -2,10 +2,12 @@
   "id": 1729773911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-07",
+    "date:cessation_upper": "2021-02-07",
     "date:inception_lower": "2021-02-07",
     "date:inception_upper": "2021-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-07",
+    "edtf:cessation": "2021-02-07T23:04:00Z",
+    "edtf:inception": "2021-02-07T22:04:00Z",
     "flysfo:actual_timestamp": 1612739460,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +53,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148736310"
+    },
     "wof:country": "US",
     "wof:created": 1612816713,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -84,7 +92,7 @@
       1159285591, 
       1477881727
     ],
-    "wof:lastmodified": 1612816713,
+    "wof:lastmodified": 1612817088,
     "wof:name": "WN3239 (LAX-SFO)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

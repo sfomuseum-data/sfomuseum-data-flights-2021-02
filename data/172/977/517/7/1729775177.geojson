@@ -2,10 +2,12 @@
   "id": 1729775177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-07",
+    "date:cessation_upper": "2021-02-07",
     "date:inception_lower": "2021-02-07",
     "date:inception_upper": "2021-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-07",
+    "edtf:cessation": "2021-02-07T21:07:00Z",
+    "edtf:inception": "2021-02-07T17:00:00Z",
     "flysfo:actual_timestamp": 1612716300,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N26902",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148717237",
+      "swim:gufi": "KO46984100"
+    },
     "wof:country": "US",
     "wof:created": 1612817033,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1729775177,
     "wof:involves": [
+      1159289995, 
       102528817, 
       102527513, 
       1159285413, 
       1477930459
     ],
-    "wof:lastmodified": 1612817033,
+    "wof:lastmodified": 1612817092,
     "wof:name": "UA427 (SFO-IAD)",
     "wof:parent_id": 1477930459,
     "wof:placetype": "event",
