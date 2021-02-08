@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773767,
     "wof:involves": [
-      1477881719, 
       102527513, 
       102530741, 
       1159284583, 
-      1159289411
+      1159289411, 
+      1477881719
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "B61833 (BOS-SFO)",
     "wof:parent_id": 1477881719,
     "wof:placetype": "event",

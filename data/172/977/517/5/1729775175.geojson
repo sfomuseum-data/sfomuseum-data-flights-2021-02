@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775175,
     "wof:involves": [
-      1159289985, 
-      1477930439, 
       102530049, 
       102527513, 
-      1159285413
+      1159285413, 
+      1159289985, 
+      1477930439
     ],
-    "wof:lastmodified": 1612817989,
+    "wof:lastmodified": 1612818682,
     "wof:name": "UA425 (SFO-EWR)",
     "wof:parent_id": 1477930439,
     "wof:placetype": "event",

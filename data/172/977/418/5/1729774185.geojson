@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774185,
     "wof:involves": [
+      1159285413, 
+      1477930407, 
       1159289407, 
       102527513, 
-      102533795, 
-      1159285413, 
-      1477930407
+      102533795
     ],
-    "wof:lastmodified": 1612817992,
+    "wof:lastmodified": 1612818685,
     "wof:name": "UA689 (LAX-SFO)",
     "wof:parent_id": 1477930407,
     "wof:placetype": "event",

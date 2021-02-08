@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774895,
     "wof:involves": [
+      1377564297, 
       1159284489, 
       1477930309, 
       102532929, 
-      102527513, 
-      1377564297
+      102527513
     ],
-    "wof:lastmodified": 1612817988,
+    "wof:lastmodified": 1612818682,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1477930309,
     "wof:placetype": "event",

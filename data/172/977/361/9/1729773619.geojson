@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773619,
     "wof:involves": [
+      102527513, 
+      1377564293, 
       102549057, 
       1159284711, 
-      1477930469, 
-      1377564293, 
-      102527513
+      1477930469
     ],
-    "wof:lastmodified": 1612817990,
+    "wof:lastmodified": 1612818684,
     "wof:name": "LH454 (FRA-SFO)",
     "wof:parent_id": 1477930469,
     "wof:placetype": "event",

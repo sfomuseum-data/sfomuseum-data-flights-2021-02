@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773969,
     "wof:involves": [
+      1159292085, 
       102527513, 
       102534217, 
       1159285413, 
-      1477930435, 
-      1159292085
+      1477930435
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "UA1257 (JAC-SFO)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

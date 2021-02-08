@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729774075,
     "wof:involves": [
-      1477930381, 
+      1159285413, 
       1159292085, 
+      1477930381, 
       102527513, 
-      102531189, 
-      1159285413
+      102531189
     ],
-    "wof:lastmodified": 1612817992,
+    "wof:lastmodified": 1612818685,
     "wof:name": "UA487 (DEN-SFO)",
     "wof:parent_id": 1477930381,
     "wof:placetype": "event",

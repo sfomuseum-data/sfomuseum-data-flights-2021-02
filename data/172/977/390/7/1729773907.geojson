@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773907,
     "wof:involves": [
-      1159289871, 
       1477881727, 
       102527513, 
       102526751, 
-      1159285591
+      1159285591, 
+      1159289871
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "WN2502 (PHX-SFO)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773701,
     "wof:involves": [
+      1477930315, 
       1377564295, 
       102527513, 
       102531189, 
-      1159284401, 
-      1477930315
+      1159284401
     ],
-    "wof:lastmodified": 1612817990,
+    "wof:lastmodified": 1612818684,
     "wof:name": "F9665 (DEN-SFO)",
     "wof:parent_id": 1477930315,
     "wof:placetype": "event",

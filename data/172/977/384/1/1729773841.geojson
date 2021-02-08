@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773841,
     "wof:involves": [
-      102527513, 
       1159289423, 
+      102527513, 
       102544207, 
       1159285129, 
       1477930471
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "SK935 (CPH-SFO)",
     "wof:parent_id": 1477930471,
     "wof:placetype": "event",

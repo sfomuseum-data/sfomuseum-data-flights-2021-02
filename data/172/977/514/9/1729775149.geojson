@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775149,
     "wof:involves": [
+      1159285413, 
+      1477930447, 
       1377564285, 
       102528997, 
-      102527513, 
-      1159285413, 
-      1477930447
+      102527513
     ],
-    "wof:lastmodified": 1612817989,
+    "wof:lastmodified": 1612818682,
     "wof:name": "UA264 (SFO-SAN)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

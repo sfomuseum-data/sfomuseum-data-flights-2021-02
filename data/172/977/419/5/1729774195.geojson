@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774195,
     "wof:involves": [
-      102527513, 
-      102533631, 
       1159285413, 
       1477930441, 
-      1377564285
+      1377564285, 
+      102527513, 
+      102533631
     ],
-    "wof:lastmodified": 1612817992,
+    "wof:lastmodified": 1612818685,
     "wof:name": "UA769 (ORD-SFO)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

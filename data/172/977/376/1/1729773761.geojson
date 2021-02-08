@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773761,
     "wof:involves": [
+      1159289411, 
       102534365, 
       1159284583, 
       1477881723, 
-      102527513, 
-      1159289411
+      102527513
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "B6115 (JFK-SFO)",
     "wof:parent_id": 1477881723,
     "wof:placetype": "event",

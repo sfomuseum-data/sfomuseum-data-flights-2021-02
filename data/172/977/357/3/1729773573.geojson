@@ -88,12 +88,12 @@
     "wof:id": 1729773573,
     "wof:involves": [
       102527363, 
-      1528104583, 
       1159284261, 
       1477930327, 
-      102527513
+      102527513, 
+      1528104583
     ],
-    "wof:lastmodified": 1612817990,
+    "wof:lastmodified": 1612818684,
     "wof:name": "DL1263 (SLC-SFO)",
     "wof:parent_id": 1477930327,
     "wof:placetype": "event",

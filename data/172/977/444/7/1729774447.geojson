@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774447,
     "wof:involves": [
+      1159283649, 
+      1477930475, 
       1159289993, 
       102555709, 
-      102527513, 
-      1159283649, 
-      1477930475
+      102527513
     ],
-    "wof:lastmodified": 1612817992,
+    "wof:lastmodified": 1612818681,
     "wof:name": "AI174 (SFO-DEL)",
     "wof:parent_id": 1477930475,
     "wof:placetype": "event",

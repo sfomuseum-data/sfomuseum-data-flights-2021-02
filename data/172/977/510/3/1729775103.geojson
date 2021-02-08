@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775103,
     "wof:involves": [
-      1159289871, 
-      102533631, 
       102527513, 
       1159285413, 
-      1477930447
+      1477930447, 
+      1159289871, 
+      102533631
     ],
-    "wof:lastmodified": 1612817989,
+    "wof:lastmodified": 1612818682,
     "wof:name": "UA1476 (SFO-ORD)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

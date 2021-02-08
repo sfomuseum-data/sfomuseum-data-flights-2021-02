@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774199,
     "wof:involves": [
+      1159289871, 
       102527513, 
       102536579, 
       1159285413, 
-      1477930465, 
-      1159289871
+      1477930465
     ],
-    "wof:lastmodified": 1612817992,
+    "wof:lastmodified": 1612818685,
     "wof:name": "UA820 (MEX-SFO)",
     "wof:parent_id": 1477930465,
     "wof:placetype": "event",

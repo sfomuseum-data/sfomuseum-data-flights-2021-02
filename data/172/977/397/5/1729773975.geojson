@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773975,
     "wof:involves": [
+      102527513, 
       1377564285, 
       102527209, 
       1159285413, 
-      1477930391, 
-      102527513
+      1477930391
     ],
-    "wof:lastmodified": 1612817991,
+    "wof:lastmodified": 1612818684,
     "wof:name": "UA1497 (LAS-SFO)",
     "wof:parent_id": 1477930391,
     "wof:placetype": "event",

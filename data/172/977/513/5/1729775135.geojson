@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775135,
     "wof:involves": [
-      1477930469, 
-      1159293215, 
       102530049, 
       102527513, 
-      1159285413
+      1159285413, 
+      1159293215, 
+      1477930469
     ],
-    "wof:lastmodified": 1612817989,
+    "wof:lastmodified": 1612818686,
     "wof:name": "UA2244 (SFO-EWR)",
     "wof:parent_id": 1477930469,
     "wof:placetype": "event",
