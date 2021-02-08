@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775171,
     "wof:involves": [
-      1159292085, 
       1477930379, 
       102531189, 
       102527513, 
-      1159285413
+      1159285413, 
+      1159292085
     ],
-    "wof:lastmodified": 1612820377,
+    "wof:lastmodified": 1612825392,
     "wof:name": "UA418 (SFO-DEN)",
     "wof:parent_id": 1477930379,
     "wof:placetype": "event",

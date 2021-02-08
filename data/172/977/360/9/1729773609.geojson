@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773609,
     "wof:involves": [
+      102527513, 
       1377564285, 
       102525635, 
       1159284261, 
-      1477930363, 
-      102527513
+      1477930363
     ],
-    "wof:lastmodified": 1612820372,
+    "wof:lastmodified": 1612825386,
     "wof:name": "DL720 (DTW-SFO)",
     "wof:parent_id": 1477930363,
     "wof:placetype": "event",

@@ -89,11 +89,11 @@
     "wof:involves": [
       1477930467, 
       102527513, 
-      1159293215, 
       102557783, 
-      1159285413
+      1159285413, 
+      1159293215
     ],
-    "wof:lastmodified": 1612820374,
+    "wof:lastmodified": 1612825388,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1477930467,
     "wof:placetype": "event",

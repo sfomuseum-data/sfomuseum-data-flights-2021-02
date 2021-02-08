@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773583,
     "wof:involves": [
+      1159284261, 
+      1159289939, 
       1477930369, 
       102527513, 
-      102534365, 
-      1159284261, 
-      1159289939
+      102534365
     ],
-    "wof:lastmodified": 1612820372,
+    "wof:lastmodified": 1612825386,
     "wof:name": "DL311 (JFK-SFO)",
     "wof:parent_id": 1477930369,
     "wof:placetype": "event",

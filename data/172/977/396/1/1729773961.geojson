@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773961,
     "wof:involves": [
+      1159285413, 
+      1477930465, 
       1377564285, 
       102527513, 
-      102536223, 
-      1159285413, 
-      1477930465
+      102536223
     ],
-    "wof:lastmodified": 1612820377,
+    "wof:lastmodified": 1612825391,
     "wof:name": "UA1159 (CUN-SFO)",
     "wof:parent_id": 1477930465,
     "wof:placetype": "event",

@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775167,
     "wof:involves": [
+      1377564285, 
       102527513, 
       1159285413, 
       1477930409, 
-      1377564285, 
       102527209
     ],
-    "wof:lastmodified": 1612820375,
+    "wof:lastmodified": 1612825390,
     "wof:name": "UA394 (SFO-LAS)",
     "wof:parent_id": 1477930409,
     "wof:placetype": "event",

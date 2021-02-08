@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729774601,
     "wof:involves": [
-      1159283813, 
-      1159289871, 
       1477930343, 
       102533269, 
-      102527513
+      102527513, 
+      1159289871, 
+      1159283813
     ],
-    "wof:lastmodified": 1612820377,
+    "wof:lastmodified": 1612825391,
     "wof:name": "AS1477 (SFO-SEA)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",

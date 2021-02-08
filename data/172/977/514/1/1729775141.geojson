@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775141,
     "wof:involves": [
-      1159285413, 
-      1159289871, 
       1477930435, 
       102528997, 
-      102527513
+      102527513, 
+      1159289871, 
+      1159285413
     ],
-    "wof:lastmodified": 1612820377,
+    "wof:lastmodified": 1612825392,
     "wof:name": "UA2323 (SFO-SAN)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

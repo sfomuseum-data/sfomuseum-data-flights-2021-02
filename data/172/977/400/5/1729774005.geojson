@@ -95,11 +95,11 @@
     "wof:involves": [
       1159285413, 
       1477930411, 
-      1159292085, 
       102527513, 
-      102533269
+      102533269, 
+      1159292085
     ],
-    "wof:lastmodified": 1612820373,
+    "wof:lastmodified": 1612825387,
     "wof:name": "UA2050 (SEA-SFO)",
     "wof:parent_id": 1477930411,
     "wof:placetype": "event",

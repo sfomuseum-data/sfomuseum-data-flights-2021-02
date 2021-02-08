@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774183,
     "wof:involves": [
+      1377564285, 
       1159285413, 
       1477930409, 
       102527513, 
-      102532939, 
-      1377564285
+      102532939
     ],
-    "wof:lastmodified": 1612820373,
+    "wof:lastmodified": 1612825387,
     "wof:name": "UA643 (KOA-SFO)",
     "wof:parent_id": 1477930409,
     "wof:placetype": "event",

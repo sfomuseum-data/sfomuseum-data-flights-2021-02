@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775027,
     "wof:involves": [
+      102531189, 
+      102527513, 
       1159289871, 
       1159285591, 
-      1477881727, 
-      102531189, 
-      102527513
+      1477881727
     ],
-    "wof:lastmodified": 1612820375,
+    "wof:lastmodified": 1612825389,
     "wof:name": "WN1980 (SFO-DEN)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

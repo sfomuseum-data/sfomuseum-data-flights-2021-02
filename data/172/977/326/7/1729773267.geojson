@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773267,
     "wof:involves": [
-      1159289871, 
-      102527513, 
       102536579, 
       1159283539, 
-      1477930289
+      1477930289, 
+      1159289871, 
+      102527513
     ],
-    "wof:lastmodified": 1612820372,
+    "wof:lastmodified": 1612825385,
     "wof:name": "AM668 (MEX-SFO)",
     "wof:parent_id": 1477930289,
     "wof:placetype": "event",
