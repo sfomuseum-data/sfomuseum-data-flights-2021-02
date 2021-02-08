@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773987,
     "wof:involves": [
+      102527513, 
       1159289871, 
       102532929, 
       1159285413, 
-      1477930403, 
-      102527513
+      1477930403
     ],
-    "wof:lastmodified": 1612818684,
+    "wof:lastmodified": 1612819508,
     "wof:name": "UA1580 (OGG-SFO)",
     "wof:parent_id": 1477930403,
     "wof:placetype": "event",

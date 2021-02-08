@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774031,
     "wof:involves": [
+      1377564285, 
       1159285413, 
       1477930457, 
       102527513, 
-      102528817, 
-      1377564285
+      102528817
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819512,
     "wof:name": "UA277 (IAD-SFO)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

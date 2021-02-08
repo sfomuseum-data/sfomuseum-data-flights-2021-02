@@ -89,13 +89,13 @@
     ],
     "wof:id": 1729773251,
     "wof:involves": [
+      102527513, 
       1159289993, 
       102555709, 
       1159283649, 
-      1477930475, 
-      102527513
+      1477930475
     ],
-    "wof:lastmodified": 1612818682,
+    "wof:lastmodified": 1612819511,
     "wof:name": "AI173 (DEL-SFO)",
     "wof:parent_id": 1477930475,
     "wof:placetype": "event",

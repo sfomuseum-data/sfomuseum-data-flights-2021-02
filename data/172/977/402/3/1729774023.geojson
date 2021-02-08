@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774023,
     "wof:involves": [
+      1477930441, 
       1159292085, 
       102527513, 
       102531189, 
-      1159285413, 
-      1477930441
+      1159285413
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819509,
     "wof:name": "UA238 (DEN-SFO)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

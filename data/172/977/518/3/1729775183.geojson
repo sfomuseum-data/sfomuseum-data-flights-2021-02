@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775183,
     "wof:involves": [
+      1159292085, 
       102533269, 
       102527513, 
       1159285413, 
-      1477930445, 
-      1159292085
+      1477930445
     ],
-    "wof:lastmodified": 1612818682,
+    "wof:lastmodified": 1612819513,
     "wof:name": "UA470 (SFO-SEA)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

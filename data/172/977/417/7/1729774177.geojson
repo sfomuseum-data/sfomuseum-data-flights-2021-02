@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774177,
     "wof:involves": [
+      1377564285, 
       1159285413, 
       1477930445, 
-      1377564285, 
       102527513, 
       102527363
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819509,
     "wof:name": "UA620 (SLC-SFO)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

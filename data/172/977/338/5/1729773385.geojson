@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773385,
     "wof:involves": [
+      1477930357, 
       1159292085, 
       102527513, 
       102533269, 
-      1159283813, 
-      1477930357
+      1159283813
     ],
-    "wof:lastmodified": 1612818683,
+    "wof:lastmodified": 1612819507,
     "wof:name": "AS1258 (SEA-SFO)",
     "wof:parent_id": 1477930357,
     "wof:placetype": "event",

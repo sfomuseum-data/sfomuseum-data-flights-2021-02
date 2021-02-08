@@ -90,13 +90,13 @@
     ],
     "wof:id": 1729773899,
     "wof:involves": [
+      1477881733, 
+      102527513, 
       1159289869, 
       102531205, 
-      1159285591, 
-      1477881733, 
-      102527513
+      1159285591
     ],
-    "wof:lastmodified": 1612818684,
+    "wof:lastmodified": 1612819508,
     "wof:name": "WN1394 (MDW-SFO)",
     "wof:parent_id": 1477881733,
     "wof:placetype": "event",

@@ -89,13 +89,13 @@
     ],
     "wof:id": 1729774581,
     "wof:involves": [
+      1477930357, 
+      1159289871, 
       102532159, 
       102527513, 
-      1159289871, 
-      1159283813, 
-      1477930357
+      1159283813
     ],
-    "wof:lastmodified": 1612818686,
+    "wof:lastmodified": 1612819512,
     "wof:name": "AS1001 (SFO-DCA)",
     "wof:parent_id": 1477930357,
     "wof:placetype": "event",

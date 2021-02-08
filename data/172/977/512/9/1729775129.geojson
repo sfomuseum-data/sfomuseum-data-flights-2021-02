@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775129,
     "wof:involves": [
-      1159289407, 
       102533795, 
       102527513, 
       1159285413, 
-      1477930445
+      1477930445, 
+      1159289407
     ],
-    "wof:lastmodified": 1612818682,
+    "wof:lastmodified": 1612819510,
     "wof:name": "UA2166 (SFO-LAX)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

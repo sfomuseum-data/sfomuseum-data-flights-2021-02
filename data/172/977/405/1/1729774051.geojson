@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774051,
     "wof:involves": [
-      1159289871, 
       1159285413, 
       1477930395, 
       102527513, 
-      102528997
+      102528997, 
+      1159289871
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819512,
     "wof:name": "UA416 (SAN-SFO)",
     "wof:parent_id": 1477930395,
     "wof:placetype": "event",

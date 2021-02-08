@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729775029,
     "wof:involves": [
-      1159289869, 
       1477881727, 
       102526751, 
       102527513, 
-      1159285591
+      1159285591, 
+      1159289869
     ],
-    "wof:lastmodified": 1612818682,
+    "wof:lastmodified": 1612819510,
     "wof:name": "WN2257 (SFO-PHX)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

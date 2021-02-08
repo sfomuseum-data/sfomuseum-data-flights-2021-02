@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773739,
     "wof:involves": [
+      102527513, 
+      102533997, 
       1159289421, 
       1159284489, 
-      1477930305, 
-      102527513, 
-      102533997
+      1477930305
     ],
-    "wof:lastmodified": 1612818684,
+    "wof:lastmodified": 1612819508,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": 1477930305,
     "wof:placetype": "event",

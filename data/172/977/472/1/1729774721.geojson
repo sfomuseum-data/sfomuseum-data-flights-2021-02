@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774721,
     "wof:involves": [
+      1477930337, 
       1528104583, 
       102527363, 
       102527513, 
-      1159284261, 
-      1477930337
+      1159284261
     ],
-    "wof:lastmodified": 1612818686,
+    "wof:lastmodified": 1612819512,
     "wof:name": "DL1317 (SFO-SLC)",
     "wof:parent_id": 1477930337,
     "wof:placetype": "event",

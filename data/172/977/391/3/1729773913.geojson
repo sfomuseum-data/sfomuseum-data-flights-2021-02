@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773913,
     "wof:involves": [
+      1159289871, 
       1477881727, 
       102527513, 
       102531189, 
-      1159289871, 
       1159285591
     ],
-    "wof:lastmodified": 1612818684,
+    "wof:lastmodified": 1612819508,
     "wof:name": "WN3285 (DEN-SFO)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

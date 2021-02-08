@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775161,
     "wof:involves": [
-      102542687, 
       1159293215, 
+      102542687, 
       102527513, 
       1159285413, 
       1477930469
     ],
-    "wof:lastmodified": 1612818686,
+    "wof:lastmodified": 1612819513,
     "wof:name": "UA2864 (SFO-TLV)",
     "wof:parent_id": 1477930469,
     "wof:placetype": "event",

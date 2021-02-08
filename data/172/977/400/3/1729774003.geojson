@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774003,
     "wof:involves": [
+      1477930407, 
       1159292085, 
       102527513, 
       102533269, 
-      1159285413, 
-      1477930407
+      1159285413
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819512,
     "wof:name": "UA1909 (SEA-SFO)",
     "wof:parent_id": 1477930407,
     "wof:placetype": "event",

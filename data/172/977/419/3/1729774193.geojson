@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774193,
     "wof:involves": [
-      1159289871, 
-      102527513, 
       102534161, 
       1159285413, 
-      1477930435
+      1477930435, 
+      1159289871, 
+      102527513
     ],
-    "wof:lastmodified": 1612818685,
+    "wof:lastmodified": 1612819512,
     "wof:name": "UA753 (SNA-SFO)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

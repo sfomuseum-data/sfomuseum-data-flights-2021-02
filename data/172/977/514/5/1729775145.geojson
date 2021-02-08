@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775145,
     "wof:involves": [
-      1477930451, 
       1159289985, 
+      1477930451, 
       102533997, 
       102527513, 
       1159285413
     ],
-    "wof:lastmodified": 1612818682,
+    "wof:lastmodified": 1612819510,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": 1477930451,
     "wof:placetype": "event",

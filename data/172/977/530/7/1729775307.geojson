@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775307,
     "wof:involves": [
-      1159292085, 
-      102534217, 
       102527513, 
       1159285413, 
-      1477930415
+      1477930415, 
+      1159292085, 
+      102534217
     ],
-    "wof:lastmodified": 1612818683,
+    "wof:lastmodified": 1612819511,
     "wof:name": "UA618 (SFO-JAC)",
     "wof:parent_id": 1477930415,
     "wof:placetype": "event",
