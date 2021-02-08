@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729775081,
     "wof:involves": [
+      1377564285, 
       102527513, 
       1159285413, 
       1477930451, 
-      1377564285, 
       102532939
     ],
-    "wof:lastmodified": 1612819513,
+    "wof:lastmodified": 1612820377,
     "wof:name": "UA1010 (SFO-KOA)",
     "wof:parent_id": 1477930451,
     "wof:placetype": "event",

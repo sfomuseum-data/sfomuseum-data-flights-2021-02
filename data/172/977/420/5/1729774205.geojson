@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774205,
     "wof:involves": [
-      1159289993, 
       1159285413, 
       1477930485, 
       102527513, 
-      102556451
+      102556451, 
+      1159289993
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820374,
     "wof:name": "UA858 (ICN-SFO)",
     "wof:parent_id": 1477930485,
     "wof:placetype": "event",

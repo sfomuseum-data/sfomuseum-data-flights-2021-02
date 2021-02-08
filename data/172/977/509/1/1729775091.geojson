@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775091,
     "wof:involves": [
-      1159292085, 
-      1159285413, 
       1477930441, 
       102533795, 
-      102527513
+      102527513, 
+      1159292085, 
+      1159285413
     ],
-    "wof:lastmodified": 1612819513,
+    "wof:lastmodified": 1612820377,
     "wof:name": "UA1200 (SFO-LAX)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

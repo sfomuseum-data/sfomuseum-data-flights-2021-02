@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774047,
     "wof:involves": [
-      1477930451, 
       102527513, 
       102526751, 
+      1159285413, 
       1377564285, 
-      1159285413
+      1477930451
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820373,
     "wof:name": "UA395 (PHX-SFO)",
     "wof:parent_id": 1477930451,
     "wof:placetype": "event",

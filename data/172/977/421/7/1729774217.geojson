@@ -95,11 +95,11 @@
     "wof:involves": [
       1477930467, 
       102527513, 
-      1159293215, 
       102556451, 
-      1159285413
+      1159285413, 
+      1159293215
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820374,
     "wof:name": "UA892 (ICN-SFO)",
     "wof:parent_id": 1477930467,
     "wof:placetype": "event",

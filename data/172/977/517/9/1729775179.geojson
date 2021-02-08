@@ -95,11 +95,11 @@
     "wof:involves": [
       102528997, 
       102527513, 
-      1159289407, 
       1159285413, 
-      1477930457
+      1477930457, 
+      1159289407
     ],
-    "wof:lastmodified": 1612819511,
+    "wof:lastmodified": 1612820375,
     "wof:name": "UA437 (SFO-SAN)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

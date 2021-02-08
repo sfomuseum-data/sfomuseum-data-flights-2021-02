@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773381,
     "wof:involves": [
+      1477930343, 
       1159292085, 
       102527513, 
       102533631, 
-      1159283813, 
-      1477930343
+      1159283813
     ],
-    "wof:lastmodified": 1612819511,
+    "wof:lastmodified": 1612820376,
     "wof:name": "AS1213 (ORD-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",

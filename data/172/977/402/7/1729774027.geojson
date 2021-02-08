@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774027,
     "wof:involves": [
+      1477930439, 
+      102527513, 
       1377564289, 
       102528817, 
-      1159285413, 
-      1477930439, 
-      102527513
+      1159285413
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820373,
     "wof:name": "UA2435 (IAD-SFO)",
     "wof:parent_id": 1477930439,
     "wof:placetype": "event",

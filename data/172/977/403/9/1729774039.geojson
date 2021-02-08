@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774039,
     "wof:involves": [
-      1477930459, 
       1159293215, 
+      1477930459, 
       102527513, 
       102530049, 
       1159285413
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820373,
     "wof:name": "UA297 (EWR-SFO)",
     "wof:parent_id": 1477930459,
     "wof:placetype": "event",

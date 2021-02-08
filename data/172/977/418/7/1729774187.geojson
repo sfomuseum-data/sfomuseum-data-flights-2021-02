@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774187,
     "wof:involves": [
+      1477930447, 
+      1159289871, 
       102527513, 
       102533997, 
-      1159285413, 
-      1159289871, 
-      1477930447
+      1159285413
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820373,
     "wof:name": "UA724 (HNL-SFO)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

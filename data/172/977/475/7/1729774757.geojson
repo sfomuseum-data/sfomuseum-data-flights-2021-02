@@ -95,11 +95,11 @@
     "wof:involves": [
       102525635, 
       102527513, 
-      1377564285, 
       1159284261, 
-      1477930319
+      1477930319, 
+      1377564285
     ],
-    "wof:lastmodified": 1612819510,
+    "wof:lastmodified": 1612820374,
     "wof:name": "DL785 (SFO-DTW)",
     "wof:parent_id": 1477930319,
     "wof:placetype": "event",

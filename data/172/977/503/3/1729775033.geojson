@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729775033,
     "wof:involves": [
-      1477881731, 
-      1159289871, 
       102528997, 
       102527513, 
-      1159285591
+      1159285591, 
+      1159289871, 
+      1477881731
     ],
-    "wof:lastmodified": 1612819510,
+    "wof:lastmodified": 1612820375,
     "wof:name": "WN3389 (SFO-SAN)",
     "wof:parent_id": 1477881731,
     "wof:placetype": "event",

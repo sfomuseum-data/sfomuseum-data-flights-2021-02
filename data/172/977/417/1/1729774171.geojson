@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774171,
     "wof:involves": [
+      1159285413, 
+      1477930463, 
       1159293215, 
       102527513, 
-      102549057, 
-      1159285413, 
-      1477930463
+      102549057
     ],
-    "wof:lastmodified": 1612819512,
+    "wof:lastmodified": 1612820377,
     "wof:name": "UA59 (FRA-SFO)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

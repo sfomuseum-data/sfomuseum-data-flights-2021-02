@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774029,
     "wof:involves": [
+      1477930395, 
       1159289871, 
       102527513, 
       102528997, 
-      1159285413, 
-      1477930395
+      1159285413
     ],
-    "wof:lastmodified": 1612819509,
+    "wof:lastmodified": 1612820373,
     "wof:name": "UA2480 (SAN-SFO)",
     "wof:parent_id": 1477930395,
     "wof:placetype": "event",
