@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774015,
     "wof:involves": [
+      1159285413, 
+      1477930445, 
       1159289407, 
       102527513, 
-      102532251, 
-      1159285413, 
-      1477930445
+      102532251
     ],
-    "wof:lastmodified": 1612817089,
+    "wof:lastmodified": 1612817991,
     "wof:name": "UA2348 (PDX-SFO)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

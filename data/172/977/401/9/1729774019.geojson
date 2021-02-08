@@ -92,12 +92,12 @@
     ],
     "wof:id": 1729774019,
     "wof:involves": [
-      102527513, 
-      1159285413, 
       1477930465, 
-      1377564285
+      1377564285, 
+      102527513, 
+      1159285413
     ],
-    "wof:lastmodified": 1612817089,
+    "wof:lastmodified": 1612817991,
     "wof:name": "UA2349 (LIR-SFO)",
     "wof:parent_id": 1477930465,
     "wof:placetype": "event",

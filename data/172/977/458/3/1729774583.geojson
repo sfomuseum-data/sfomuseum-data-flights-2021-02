@@ -89,13 +89,13 @@
     ],
     "wof:id": 1729774583,
     "wof:involves": [
+      1477930349, 
       1159289871, 
       102534365, 
       102527513, 
-      1159283813, 
-      1477930349
+      1159283813
     ],
-    "wof:lastmodified": 1612817090,
+    "wof:lastmodified": 1612817993,
     "wof:name": "AS1022 (SFO-JFK)",
     "wof:parent_id": 1477930349,
     "wof:placetype": "event",

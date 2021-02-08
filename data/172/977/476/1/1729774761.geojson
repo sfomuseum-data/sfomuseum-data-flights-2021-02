@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774761,
     "wof:involves": [
+      1477930333, 
       1159289407, 
       102531131, 
       102527513, 
-      1159284261, 
-      1477930333
+      1159284261
     ],
-    "wof:lastmodified": 1612817090,
+    "wof:lastmodified": 1612817993,
     "wof:name": "DL931 (SFO-MSP)",
     "wof:parent_id": 1477930333,
     "wof:placetype": "event",

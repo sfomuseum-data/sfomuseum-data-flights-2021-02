@@ -89,13 +89,13 @@
     ],
     "wof:id": 1729774903,
     "wof:involves": [
-      1159289411, 
-      102534365, 
       102527513, 
       1159284583, 
-      1477881723
+      1477881723, 
+      1159289411, 
+      102534365
     ],
-    "wof:lastmodified": 1612817091,
+    "wof:lastmodified": 1612817988,
     "wof:name": "B61616 (SFO-JFK)",
     "wof:parent_id": 1477881723,
     "wof:placetype": "event",

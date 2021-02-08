@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775321,
     "wof:involves": [
+      1159289945, 
       102533631, 
       102527513, 
       1159285413, 
-      1477930457, 
-      1159289945
+      1477930457
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817994,
     "wof:name": "UA721 (SFO-ORD)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

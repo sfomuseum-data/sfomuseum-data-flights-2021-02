@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775155,
     "wof:involves": [
-      1159285413, 
       1477930445, 
-      1159289407, 
       102521851, 
-      102527513
+      102527513, 
+      1159289407, 
+      1159285413
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817989,
     "wof:name": "UA281 (SFO-AUS)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

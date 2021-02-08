@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774757,
     "wof:involves": [
+      1159284261, 
+      1477930319, 
       1377564285, 
       102525635, 
-      102527513, 
-      1159284261, 
-      1477930319
+      102527513
     ],
-    "wof:lastmodified": 1612817090,
+    "wof:lastmodified": 1612817993,
     "wof:name": "DL785 (SFO-DTW)",
     "wof:parent_id": 1477930319,
     "wof:placetype": "event",

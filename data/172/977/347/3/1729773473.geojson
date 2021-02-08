@@ -94,11 +94,11 @@
     "wof:involves": [
       1159283813, 
       1477930343, 
-      1159289871, 
       102527513, 
-      102533269
+      102533269, 
+      1159289871
     ],
-    "wof:lastmodified": 1612817087,
+    "wof:lastmodified": 1612817990,
     "wof:name": "AS405 (SEA-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",

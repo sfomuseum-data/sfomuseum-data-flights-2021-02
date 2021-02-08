@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774905,
     "wof:involves": [
+      1159289411, 
       102527513, 
       1159284583, 
       1477881719, 
-      1159289411, 
       102534365
     ],
-    "wof:lastmodified": 1612817091,
+    "wof:lastmodified": 1612817988,
     "wof:name": "B6216 (SFO-JFK)",
     "wof:parent_id": 1477881719,
     "wof:placetype": "event",

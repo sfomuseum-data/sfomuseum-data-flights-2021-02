@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729775325,
     "wof:involves": [
-      1477930447, 
       1377564285, 
+      1477930447, 
       102533631, 
       102527513, 
       1159285413
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817989,
     "wof:name": "UA732 (SFO-ORD)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

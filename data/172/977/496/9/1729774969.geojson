@@ -90,13 +90,13 @@
     ],
     "wof:id": 1729774969,
     "wof:involves": [
-      1377564293, 
       1729749565, 
       102527513, 
       1159286153, 
-      1477930301
+      1477930301, 
+      1377564293
     ],
-    "wof:lastmodified": 1612817091,
+    "wof:lastmodified": 1612817988,
     "wof:name": "QR738 (SFO-DOH)",
     "wof:parent_id": 1477930301,
     "wof:placetype": "event",

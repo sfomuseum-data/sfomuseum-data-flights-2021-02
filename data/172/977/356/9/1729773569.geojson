@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773569,
     "wof:involves": [
+      1477930333, 
       1159289407, 
       102527513, 
       102531131, 
-      1159284261, 
-      1477930333
+      1159284261
     ],
-    "wof:lastmodified": 1612817087,
+    "wof:lastmodified": 1612817990,
     "wof:name": "DL1202 (MSP-SFO)",
     "wof:parent_id": 1477930333,
     "wof:placetype": "event",

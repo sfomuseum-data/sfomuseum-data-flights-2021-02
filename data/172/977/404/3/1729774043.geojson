@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774043,
     "wof:involves": [
+      102533997, 
+      1159289985, 
       1159285413, 
       1477930459, 
-      1159289985, 
-      102527513, 
-      102533997
+      102527513
     ],
-    "wof:lastmodified": 1612817089,
+    "wof:lastmodified": 1612817992,
     "wof:name": "UA372 (HNL-SFO)",
     "wof:parent_id": 1477930459,
     "wof:placetype": "event",

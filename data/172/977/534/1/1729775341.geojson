@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729775341,
     "wof:involves": [
-      1159293215, 
-      102557783, 
       102527513, 
       1159285413, 
-      1477930467
+      1477930467, 
+      1159293215, 
+      102557783
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817994,
     "wof:name": "UA863 (SFO-SYD)",
     "wof:parent_id": 1477930467,
     "wof:placetype": "event",

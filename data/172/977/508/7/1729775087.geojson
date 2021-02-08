@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775087,
     "wof:involves": [
-      102527513, 
-      1159285413, 
       1477930441, 
+      102533997, 
       1159289871, 
-      102533997
+      102527513, 
+      1159285413
     ],
-    "wof:lastmodified": 1612817091,
+    "wof:lastmodified": 1612817989,
     "wof:name": "UA1175 (SFO-HNL)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

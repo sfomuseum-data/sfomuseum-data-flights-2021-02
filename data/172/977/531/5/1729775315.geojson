@@ -95,11 +95,11 @@
     "wof:involves": [
       1159285413, 
       1477930391, 
-      1159292085, 
       102531189, 
-      102527513
+      102527513, 
+      1159292085
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817989,
     "wof:name": "UA683 (SFO-DEN)",
     "wof:parent_id": 1477930391,
     "wof:placetype": "event",

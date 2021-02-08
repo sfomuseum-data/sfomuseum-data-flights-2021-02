@@ -51,12 +51,12 @@
     "wof:hierarchy": [],
     "wof:id": 1729775159,
     "wof:involves": [
+      1159289965, 
       102527513, 
       1159285413, 
-      1159289965, 
       102533631
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817989,
     "wof:name": "UA2862 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

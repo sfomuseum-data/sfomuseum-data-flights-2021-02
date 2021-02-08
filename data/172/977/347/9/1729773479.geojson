@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773479,
     "wof:involves": [
+      102527513, 
+      1159289871, 
       102534365, 
       1159283813, 
-      1477930359, 
-      1159289871, 
-      102527513
+      1477930359
     ],
-    "wof:lastmodified": 1612817087,
+    "wof:lastmodified": 1612817990,
     "wof:name": "AS657 (JFK-SFO)",
     "wof:parent_id": 1477930359,
     "wof:placetype": "event",

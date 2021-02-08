@@ -91,13 +91,13 @@
     ],
     "wof:id": 1729775271,
     "wof:involves": [
-      1477930461, 
-      1159293215, 
       102549057, 
       102527513, 
-      1159285413
+      1159285413, 
+      1159293215, 
+      1477930461
     ],
-    "wof:lastmodified": 1612817092,
+    "wof:lastmodified": 1612817994,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": 1477930461,
     "wof:placetype": "event",
