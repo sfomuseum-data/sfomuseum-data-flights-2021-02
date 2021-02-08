@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775343,
     "wof:involves": [
+      1159285413, 
+      1159293215, 
       1477930463, 
       102555709, 
-      1159293215, 
-      102527513, 
-      1159285413
+      102527513
     ],
-    "wof:lastmodified": 1612825390,
+    "wof:lastmodified": 1612826887,
     "wof:name": "UA867 (SFO-DEL)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

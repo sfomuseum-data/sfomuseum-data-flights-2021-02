@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774021,
     "wof:involves": [
-      1159285413, 
-      1377564285, 
       1477930457, 
       102527513, 
-      102534097
+      102534097, 
+      1377564285, 
+      1159285413
     ],
-    "wof:lastmodified": 1612825391,
+    "wof:lastmodified": 1612826888,
     "wof:name": "UA2372 (IAH-SFO)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

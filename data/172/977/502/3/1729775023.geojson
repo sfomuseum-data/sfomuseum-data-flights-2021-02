@@ -90,13 +90,13 @@
     ],
     "wof:id": 1729775023,
     "wof:involves": [
-      1477881733, 
       1159289871, 
+      1477881733, 
       102528997, 
       102527513, 
       1159285591
     ],
-    "wof:lastmodified": 1612825389,
+    "wof:lastmodified": 1612826886,
     "wof:name": "WN1541 (SFO-SAN)",
     "wof:parent_id": 1477881733,
     "wof:placetype": "event",

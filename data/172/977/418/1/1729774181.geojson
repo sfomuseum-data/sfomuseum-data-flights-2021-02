@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774181,
     "wof:involves": [
+      1159285413, 
       1377564285, 
       1477930435, 
       102527513, 
-      102533631, 
-      1159285413
+      102533631
     ],
-    "wof:lastmodified": 1612825391,
+    "wof:lastmodified": 1612826888,
     "wof:name": "UA638 (ORD-SFO)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

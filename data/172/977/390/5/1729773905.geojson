@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773905,
     "wof:involves": [
-      1477881727, 
       1159289871, 
+      1477881727, 
       102527513, 
       102533795, 
       1159285591
     ],
-    "wof:lastmodified": 1612825387,
+    "wof:lastmodified": 1612826883,
     "wof:name": "WN2265 (LAX-SFO)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729774909,
     "wof:involves": [
+      1159284583, 
       1159289411, 
       1477881719, 
       102530741, 
-      102527513, 
-      1159284583
+      102527513
     ],
-    "wof:lastmodified": 1612825389,
+    "wof:lastmodified": 1612826886,
     "wof:name": "B6534 (SFO-BOS)",
     "wof:parent_id": 1477881719,
     "wof:placetype": "event",

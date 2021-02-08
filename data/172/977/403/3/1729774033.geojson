@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774033,
     "wof:involves": [
-      1159289993, 
       102527513, 
       102530049, 
       1159285413, 
-      1477930463
+      1477930463, 
+      1159289993
     ],
-    "wof:lastmodified": 1612825387,
+    "wof:lastmodified": 1612826884,
     "wof:name": "UA285 (EWR-SFO)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

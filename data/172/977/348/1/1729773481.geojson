@@ -92,13 +92,13 @@
     ],
     "wof:id": 1729773481,
     "wof:involves": [
-      102527513, 
-      1159292085, 
       102533269, 
       1159283813, 
-      1477930345
+      1477930345, 
+      1159292085, 
+      102527513
     ],
-    "wof:lastmodified": 1612825391,
+    "wof:lastmodified": 1612826887,
     "wof:name": "AS762 (SEA-SFO)",
     "wof:parent_id": 1477930345,
     "wof:placetype": "event",

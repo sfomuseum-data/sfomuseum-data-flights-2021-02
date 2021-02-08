@@ -53,12 +53,12 @@
     "wof:hierarchy": [],
     "wof:id": 1729775157,
     "wof:involves": [
-      102527513, 
-      1159285413, 
+      102533631, 
       1159289965, 
-      102533631
+      102527513, 
+      1159285413
     ],
-    "wof:lastmodified": 1612825389,
+    "wof:lastmodified": 1612826886,
     "wof:name": "UA2854 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

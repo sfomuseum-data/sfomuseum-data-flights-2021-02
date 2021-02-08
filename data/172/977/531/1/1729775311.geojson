@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729775311,
     "wof:involves": [
-      1159289871, 
       1159285413, 
       1477930387, 
       102526751, 
-      102527513
+      102527513, 
+      1159289871
     ],
-    "wof:lastmodified": 1612825392,
+    "wof:lastmodified": 1612826889,
     "wof:name": "UA656 (SFO-PHX)",
     "wof:parent_id": 1477930387,
     "wof:placetype": "event",

@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729774041,
     "wof:involves": [
-      1159289407, 
       102527513, 
       102521851, 
       1159285413, 
-      1477930457
+      1477930457, 
+      1159289407
     ],
-    "wof:lastmodified": 1612825391,
+    "wof:lastmodified": 1612826888,
     "wof:name": "UA306 (AUS-SFO)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

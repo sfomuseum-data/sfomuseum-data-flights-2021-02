@@ -87,13 +87,13 @@
     ],
     "wof:id": 1729773397,
     "wof:involves": [
-      1377564285, 
       1159283813, 
       1477930353, 
       102527513, 
-      102533269
+      102533269, 
+      1377564285
     ],
-    "wof:lastmodified": 1612825386,
+    "wof:lastmodified": 1612826882,
     "wof:name": "AS1390 (SEA-SFO)",
     "wof:parent_id": 1477930353,
     "wof:placetype": "event",

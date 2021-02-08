@@ -88,13 +88,13 @@
     ],
     "wof:id": 1729775037,
     "wof:involves": [
-      1159285591, 
       1159289871, 
+      1159285591, 
       1477881727, 
       102533795, 
       102527513
     ],
-    "wof:lastmodified": 1612825389,
+    "wof:lastmodified": 1612826886,
     "wof:name": "WN4722 (SFO-LAX)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",

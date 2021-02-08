@@ -93,13 +93,13 @@
     ],
     "wof:id": 1729773955,
     "wof:involves": [
+      102527513, 
+      1377564285, 
       102532939, 
       1159285413, 
-      1477930447, 
-      102527513, 
-      1377564285
+      1477930447
     ],
-    "wof:lastmodified": 1612825387,
+    "wof:lastmodified": 1612826884,
     "wof:name": "UA1092 (KOA-SFO)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

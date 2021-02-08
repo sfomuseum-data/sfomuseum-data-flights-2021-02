@@ -94,11 +94,11 @@
     "wof:involves": [
       102527513, 
       1159283813, 
-      1159292085, 
       1477930359, 
-      102533631
+      102533631, 
+      1159292085
     ],
-    "wof:lastmodified": 1612825388,
+    "wof:lastmodified": 1612826885,
     "wof:name": "AS1208 (SFO-ORD)",
     "wof:parent_id": 1477930359,
     "wof:placetype": "event",
