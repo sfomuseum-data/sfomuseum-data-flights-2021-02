@@ -2,10 +2,12 @@
   "id": 1729804085,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-12",
-    "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "date:cessation_lower": "2021-02-13",
+    "date:cessation_upper": "2021-02-13",
+    "date:inception_lower": "2021-02-13",
+    "date:inception_upper": "2021-02-13",
+    "edtf:cessation": "2021-02-13T01:42:00Z",
+    "edtf:inception": "2021-02-13T00:31:00Z",
     "flysfo:actual_timestamp": 1613174400,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.612651,
     "lbl:longitude": -122.384444,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8659D",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148969026"
+    },
     "wof:country": "US",
     "wof:created": 1613232347,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1729804085,
     "wof:involves": [
+      1159289871, 
       102527513, 
       102528997, 
       1159285591, 
       1477881725
     ],
-    "wof:lastmodified": 1613232347,
+    "wof:lastmodified": 1613232789,
     "wof:name": "WN1877 (SAN-SFO)",
     "wof:parent_id": 1477881725,
     "wof:placetype": "event",

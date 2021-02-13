@@ -2,10 +2,12 @@
   "id": 1729803795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-12",
+    "date:cessation_upper": "2021-02-12",
     "date:inception_lower": "2021-02-12",
     "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "edtf:cessation": "2021-02-12T10:44:27-08:00",
+    "edtf:inception": "2021-02-12T20:39:00Z",
     "flysfo:actual_timestamp": 1613174400,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N662DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "149013538",
+      "swim:gufi": "KN69059600"
+    },
     "wof:country": "US",
     "wof:created": 1613232265,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -44,9 +58,9 @@
       102527513, 
       102530049, 
       1159284261, 
-      -1
+      1159289939
     ],
-    "wof:lastmodified": 1613232265,
+    "wof:lastmodified": 1613232788,
     "wof:name": "DL8920 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

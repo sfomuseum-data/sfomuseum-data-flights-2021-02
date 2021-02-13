@@ -2,10 +2,12 @@
   "id": 1729804231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-12",
+    "date:cessation_upper": "2021-02-12",
     "date:inception_lower": "2021-02-12",
     "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "edtf:cessation": "2021-02-12T09:02:38-08:00",
+    "edtf:inception": "2021-02-12T21:43:00Z",
     "flysfo:actual_timestamp": 1613174400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N443UA",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149020734",
+      "swim:gufi": "KH64107600"
+    },
     "wof:country": "US",
     "wof:created": 1613232387,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -82,9 +96,10 @@
       102527513, 
       102521851, 
       1159285413, 
-      1477930415
+      1477930415, 
+      1159292085
     ],
-    "wof:lastmodified": 1613232387,
+    "wof:lastmodified": 1613232790,
     "wof:name": "UA306 (AUS-SFO)",
     "wof:parent_id": 1477930415,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1729804209,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-12",
+    "date:cessation_upper": "2021-02-12",
     "date:inception_lower": "2021-02-12",
     "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "edtf:cessation": "2021-02-12T18:37:00Z",
+    "edtf:inception": "2021-02-12T16:15:00Z",
     "flysfo:actual_timestamp": 1613174400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.4645545,
     "geom:longitude": -113.444008,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530535,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +55,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148996598"
+    },
     "wof:country": "US",
     "wof:created": 1613232381,
     "wof:geomhash": "e3c6a1a6f8d45a2660e783ca1e486101",
@@ -79,12 +89,13 @@
     ],
     "wof:id": 1729804209,
     "wof:involves": [
+      1159289985, 
       102527513, 
       102530535, 
       1159285413, 
       1477930475
     ],
-    "wof:lastmodified": 1613232381,
+    "wof:lastmodified": 1613232789,
     "wof:name": "UA2725 (ROW-SFO)",
     "wof:parent_id": 1477930475,
     "wof:placetype": "event",

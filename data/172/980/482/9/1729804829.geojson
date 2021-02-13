@@ -2,10 +2,12 @@
   "id": 1729804829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-13",
+    "date:cessation_upper": "2021-02-13",
     "date:inception_lower": "2021-02-12",
     "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "edtf:cessation": "2021-02-13T04:32:00Z",
+    "edtf:inception": "2021-02-12T23:28:00Z",
     "flysfo:actual_timestamp": 1613174400,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +56,9 @@
       1477855607, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149024819"
+    },
     "wof:country": "US",
     "wof:created": 1613232548,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -79,12 +90,13 @@
     ],
     "wof:id": 1729804829,
     "wof:involves": [
+      1377564285, 
       102533657, 
       102527513, 
       1159283813, 
       1477930349
     ],
-    "wof:lastmodified": 1613232548,
+    "wof:lastmodified": 1613232791,
     "wof:name": "AS1302 (SFO-MCO)",
     "wof:parent_id": 1477930349,
     "wof:placetype": "event",

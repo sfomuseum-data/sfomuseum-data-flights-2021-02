@@ -2,10 +2,12 @@
   "id": 1729803955,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-12",
-    "date:inception_upper": "2021-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-12",
+    "date:cessation_lower": "2021-02-13",
+    "date:cessation_upper": "2021-02-13",
+    "date:inception_lower": "2021-02-13",
+    "date:inception_upper": "2021-02-13",
+    "edtf:cessation": "2021-02-13T04:16:00Z",
+    "edtf:inception": "2021-02-13T00:48:00Z",
     "flysfo:actual_timestamp": 1613190660,
     "flysfo:airline": "B6",
     "flysfo:date": "2021-02-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "B6",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N712JB",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148969926"
+    },
     "wof:country": "US",
     "wof:created": 1613232311,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1729803955,
     "wof:involves": [
+      1477930315, 
+      1159289411, 
       102527513, 
       102521851, 
-      1159284583, 
-      1477930315
+      1159284583
     ],
-    "wof:lastmodified": 1613232311,
+    "wof:lastmodified": 1613232788,
     "wof:name": "B61577 (AUS-SFO)",
     "wof:parent_id": 1477930315,
     "wof:placetype": "event",
