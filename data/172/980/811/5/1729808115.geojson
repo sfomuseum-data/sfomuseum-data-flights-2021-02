@@ -2,10 +2,12 @@
   "id": 1729808115,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-13",
+    "date:cessation_upper": "2021-02-13",
     "date:inception_lower": "2021-02-13",
     "date:inception_upper": "2021-02-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-13",
+    "edtf:cessation": "2021-02-13T21:24:00Z",
+    "edtf:inception": "2021-02-13T19:42:00Z",
     "flysfo:actual_timestamp": 1613243820,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.612295,
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534217,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +56,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149069407",
+      "swim:gufi": "KO58340700"
+    },
     "wof:country": "US",
     "wof:created": 1613319083,
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
@@ -79,12 +91,13 @@
     ],
     "wof:id": 1729808115,
     "wof:involves": [
+      1159289407, 
       102534217, 
       102527513, 
       1159285413, 
       1477930435
     ],
-    "wof:lastmodified": 1613319083,
+    "wof:lastmodified": 1613319111,
     "wof:name": "UA618 (SFO-JAC)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

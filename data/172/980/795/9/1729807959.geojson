@@ -2,10 +2,12 @@
   "id": 1729807959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-13",
+    "date:cessation_upper": "2021-02-13",
     "date:inception_lower": "2021-02-13",
     "date:inception_upper": "2021-02-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-13",
+    "edtf:cessation": "2021-02-13T04:25:24Z",
+    "edtf:inception": "2021-02-13T03:04:00Z",
     "flysfo:actual_timestamp": 1613260800,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-13",
@@ -48,6 +50,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149035279"
+    },
     "wof:country": "US",
     "wof:created": 1613319043,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -84,7 +89,7 @@
       1159285413, 
       1477930461
     ],
-    "wof:lastmodified": 1613319043,
+    "wof:lastmodified": 1613319111,
     "wof:name": "UA317 (SFO-PDX)",
     "wof:parent_id": 1477930461,
     "wof:placetype": "event",
