@@ -2,10 +2,12 @@
   "id": 1729813255,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-15",
-    "date:inception_upper": "2021-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-15",
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
+    "date:inception_lower": "2021-02-16",
+    "date:inception_upper": "2021-02-16",
+    "edtf:cessation": "2021-02-16T04:51:50Z",
+    "edtf:inception": "2021-02-16T03:59:00Z",
     "flysfo:actual_timestamp": 1613447460,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.612234,
     "lbl:longitude": -122.384734,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8630B",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149131223"
+    },
     "wof:country": "US",
     "wof:created": 1613491927,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1729813255,
     "wof:involves": [
+      1159289871, 
       102533795, 
       102527513, 
       1159285591, 
       1477881731
     ],
-    "wof:lastmodified": 1613491927,
+    "wof:lastmodified": 1613492032,
     "wof:name": "WN4722 (SFO-LAX)",
     "wof:parent_id": 1477881731,
     "wof:placetype": "event",

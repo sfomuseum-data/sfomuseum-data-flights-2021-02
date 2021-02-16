@@ -2,10 +2,12 @@
   "id": 1729812803,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-15",
-    "date:inception_upper": "2021-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-15",
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
+    "date:inception_lower": "2021-02-16",
+    "date:inception_upper": "2021-02-16",
+    "edtf:cessation": "2021-02-16T15:49:40Z",
+    "edtf:inception": "2021-02-16T00:23:00Z",
     "flysfo:actual_timestamp": 1613433600,
     "flysfo:airline": "MU",
     "flysfo:date": "2021-02-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "MU",
+    "icao:aircraft": "A332",
     "icao:airline": "CES",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289421,
     "sfomuseum:airline_id": 1159284157,
     "sfomuseum:arrival_id": 102550331,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -79,12 +88,13 @@
     ],
     "wof:id": 1729812803,
     "wof:involves": [
+      1477930315, 
+      1159289421, 
       102550331, 
       102527513, 
-      1159284157, 
-      1477930315
+      1159284157
     ],
-    "wof:lastmodified": 1613491808,
+    "wof:lastmodified": 1613492031,
     "wof:name": "MU7302 (SFO-PVG)",
     "wof:parent_id": 1477930315,
     "wof:placetype": "event",

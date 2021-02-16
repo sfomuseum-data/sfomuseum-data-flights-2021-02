@@ -2,10 +2,12 @@
   "id": 1729813381,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-15",
-    "date:inception_upper": "2021-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-15",
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
+    "date:inception_lower": "2021-02-16",
+    "date:inception_upper": "2021-02-16",
+    "edtf:cessation": "2021-02-16T04:30:00Z",
+    "edtf:inception": "2021-02-16T02:39:00Z",
     "flysfo:actual_timestamp": 1613442240,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N812UA",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149129376",
+      "swim:gufi": "KO81419200"
+    },
     "wof:country": "US",
     "wof:created": 1613491962,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -82,9 +96,10 @@
       102531189, 
       102527513, 
       1159285413, 
-      1477930409
+      1477930409, 
+      1159289407
     ],
-    "wof:lastmodified": 1613491962,
+    "wof:lastmodified": 1613492032,
     "wof:name": "UA450 (SFO-DEN)",
     "wof:parent_id": 1477930409,
     "wof:placetype": "event",

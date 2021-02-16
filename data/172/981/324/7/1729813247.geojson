@@ -2,10 +2,12 @@
   "id": 1729813247,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-02-15",
-    "date:inception_upper": "2021-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-15",
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
+    "date:inception_lower": "2021-02-16",
+    "date:inception_upper": "2021-02-16",
+    "edtf:cessation": "2021-02-16T01:32:00Z",
+    "edtf:inception": "2021-02-16T00:07:00Z",
     "flysfo:actual_timestamp": 1613433480,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.612413,
     "lbl:longitude": -122.384605,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +57,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149127218"
+    },
     "wof:country": "US",
     "wof:created": 1613491924,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -79,12 +91,13 @@
     ],
     "wof:id": 1729813247,
     "wof:involves": [
+      1477881727, 
+      1159289869, 
       102526751, 
       102527513, 
-      1159285591, 
-      1477881727
+      1159285591
     ],
-    "wof:lastmodified": 1613491924,
+    "wof:lastmodified": 1613492031,
     "wof:name": "WN2257 (SFO-PHX)",
     "wof:parent_id": 1477881727,
     "wof:placetype": "event",
