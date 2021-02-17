@@ -2,10 +2,12 @@
   "id": 1729815391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
     "date:inception_lower": "2021-02-16",
     "date:inception_upper": "2021-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-16",
+    "edtf:cessation": "2021-02-16T21:36:00Z",
+    "edtf:inception": "2021-02-16T01:29:36-08:00",
     "flysfo:actual_timestamp": 1613520000,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-02-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.512417,
     "geom:longitude": -102.103286,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534019,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N649DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "149192341",
+      "swim:gufi": "KO58263300"
+    },
     "wof:country": "US",
     "wof:created": 1613578135,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -44,9 +58,9 @@
       102534019, 
       102527513, 
       1159284261, 
-      -1
+      1159289939
     ],
-    "wof:lastmodified": 1613578135,
+    "wof:lastmodified": 1613578292,
     "wof:name": "DL8923 (SFO-CLE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

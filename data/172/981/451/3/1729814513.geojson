@@ -2,10 +2,12 @@
   "id": 1729814513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
     "date:inception_lower": "2021-02-16",
     "date:inception_upper": "2021-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-16",
+    "edtf:cessation": "2021-02-16T20:34:53Z",
+    "edtf:inception": "2021-02-16T05:41:00Z",
     "flysfo:actual_timestamp": 1613520000,
     "flysfo:airline": "QR",
     "flysfo:date": "2021-02-16",
@@ -48,6 +50,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149174294"
+    },
     "wof:country": "US",
     "wof:created": 1613577906,
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
@@ -84,7 +89,7 @@
       1159286153, 
       1477930305
     ],
-    "wof:lastmodified": 1613577906,
+    "wof:lastmodified": 1613578289,
     "wof:name": "QR737 (DOH-SFO)",
     "wof:parent_id": 1477930305,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1729814279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-16",
+    "date:cessation_upper": "2021-02-16",
     "date:inception_lower": "2021-02-16",
     "date:inception_upper": "2021-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-16",
+    "edtf:cessation": "2021-02-16T21:24:27Z",
+    "edtf:inception": "2021-02-16T11:07:00Z",
     "flysfo:actual_timestamp": 1613520000,
     "flysfo:airline": "BA",
     "flysfo:date": "2021-02-16",
@@ -48,6 +50,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149223719"
+    },
     "wof:country": "US",
     "wof:created": 1613577838,
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
@@ -84,7 +89,7 @@
       1159284021, 
       1477930291
     ],
-    "wof:lastmodified": 1613577838,
+    "wof:lastmodified": 1613578289,
     "wof:name": "BA285 (LHR-SFO)",
     "wof:parent_id": 1477930291,
     "wof:placetype": "event",
