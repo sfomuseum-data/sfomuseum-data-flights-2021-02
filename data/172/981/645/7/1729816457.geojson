@@ -2,10 +2,12 @@
   "id": 1729816457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-17",
+    "date:cessation_upper": "2021-02-17",
     "date:inception_lower": "2021-02-17",
     "date:inception_upper": "2021-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-17",
+    "edtf:cessation": "2021-02-17T04:30:31Z",
+    "edtf:inception": "2021-02-17T03:01:00Z",
     "flysfo:actual_timestamp": 1613606400,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-02-17",
@@ -48,6 +50,9 @@
       1477855607, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149216559"
+    },
     "wof:country": "US",
     "wof:created": 1613664191,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -84,7 +89,7 @@
       1159283813, 
       1477930343
     ],
-    "wof:lastmodified": 1613664191,
+    "wof:lastmodified": 1613664684,
     "wof:name": "AS1356 (SEA-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",

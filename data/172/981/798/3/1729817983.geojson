@@ -2,10 +2,12 @@
   "id": 1729817983,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-17",
+    "date:cessation_upper": "2021-02-17",
     "date:inception_lower": "2021-02-17",
     "date:inception_upper": "2021-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-17",
+    "edtf:cessation": "2021-02-17T19:31:21Z",
+    "edtf:inception": "2021-02-17T18:37:00Z",
     "flysfo:actual_timestamp": 1613586480,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-02-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.612651,
     "lbl:longitude": -122.384444,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8528Q",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +57,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149243382"
+    },
     "wof:country": "US",
     "wof:created": 1613664587,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -79,12 +91,13 @@
     ],
     "wof:id": 1729817983,
     "wof:involves": [
+      1159289871, 
       102533795, 
       102527513, 
       1159285591, 
       1477881725
     ],
-    "wof:lastmodified": 1613664587,
+    "wof:lastmodified": 1613664688,
     "wof:name": "WN3767 (SFO-LAX)",
     "wof:parent_id": 1477881725,
     "wof:placetype": "event",
