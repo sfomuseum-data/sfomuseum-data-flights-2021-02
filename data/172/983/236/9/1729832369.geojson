@@ -2,10 +2,12 @@
   "id": 1729832369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-23",
+    "date:cessation_upper": "2021-02-23",
     "date:inception_lower": "2021-02-23",
     "date:inception_upper": "2021-02-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-23",
+    "edtf:cessation": "2021-02-23T23:21:06Z",
+    "edtf:inception": "2021-02-23T21:46:00Z",
     "flysfo:actual_timestamp": 1614122520,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-02-23",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +54,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149599051"
+    },
     "wof:country": "US",
     "wof:created": 1614182596,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -84,7 +93,7 @@
       1159283813, 
       1729792399
     ],
-    "wof:lastmodified": 1614182596,
+    "wof:lastmodified": 1614183060,
     "wof:name": "AS1252 (SEA-SFO)",
     "wof:parent_id": 1729792399,
     "wof:placetype": "event",
