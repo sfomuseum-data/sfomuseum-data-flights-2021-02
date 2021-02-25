@@ -2,10 +2,12 @@
   "id": 1729836187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2021-02-24",
     "date:inception_upper": "2021-02-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-24",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2021-02-24T12:05:41-08:00",
     "flysfo:actual_timestamp": 1614211200,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.811792499999996,
     "geom:longitude": -43.7468645,
     "iata:airline": "UA",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102542687,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -82,9 +91,10 @@
       102542687, 
       102527513, 
       1159285413, 
-      1729792657
+      1729792657, 
+      1159289995
     ],
-    "wof:lastmodified": 1614269448,
+    "wof:lastmodified": 1614269524,
     "wof:name": "UA2792 (SFO-TLV)",
     "wof:parent_id": 1729792657,
     "wof:placetype": "event",
