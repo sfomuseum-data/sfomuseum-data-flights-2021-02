@@ -2,10 +2,12 @@
   "id": 1729844117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-26",
+    "date:cessation_upper": "2021-02-26",
     "date:inception_lower": "2021-02-26",
     "date:inception_upper": "2021-02-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-26",
+    "edtf:cessation": "2021-02-26T10:17:57Z",
+    "edtf:inception": "2021-02-26T00:43:00Z",
     "flysfo:actual_timestamp": 1614395940,
     "flysfo:airline": "BA",
     "flysfo:date": "2021-02-26",
@@ -48,6 +50,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "149807390"
+    },
     "wof:country": "US",
     "wof:created": 1614442196,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -84,7 +89,7 @@
       1159284021, 
       1729792597
     ],
-    "wof:lastmodified": 1614442196,
+    "wof:lastmodified": 1614442415,
     "wof:name": "BA284 (SFO-LHR)",
     "wof:parent_id": 1729792597,
     "wof:placetype": "event",
