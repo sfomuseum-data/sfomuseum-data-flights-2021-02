@@ -2,10 +2,12 @@
   "id": 1729847047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-02-27",
+    "date:cessation_upper": "2021-02-27",
     "date:inception_lower": "2021-02-27",
     "date:inception_upper": "2021-02-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-02-27",
+    "edtf:cessation": "2021-02-27T17:15:18Z",
+    "edtf:inception": "2021-02-27T15:07:00Z",
     "flysfo:actual_timestamp": 1614470400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-02-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.4645545,
     "geom:longitude": -113.444008,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530535,
     "sfomuseum:departure_id": 102527513,
@@ -34,19 +38,27 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "149871193",
+      "swim:gufi": "KO45689700"
+    },
     "wof:country": "US",
     "wof:created": 1614528689,
     "wof:geomhash": "b40be45e404b6672d17874a2b6d6d5a4",
     "wof:hierarchy": [],
     "wof:id": 1729847047,
     "wof:involves": [
-      102530535, 
-      102527513, 
       1159285413, 
-      -1
+      1159289407, 
+      102530535, 
+      102527513
     ],
-    "wof:lastmodified": 1614528689,
+    "wof:lastmodified": 1614528773,
     "wof:name": "UA2746 (SFO-ROW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
