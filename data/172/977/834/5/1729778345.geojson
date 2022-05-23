@@ -35,27 +35,27 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1477855605,
       102527513,
-      1477855835,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1477930301,
-      1477855833,
-      102085387
+      102085387,
+      1729792387,
+      1729792581,
+      1729792627,
+      1729792579
     ],
     "wof:country": "US",
     "wof:created": 1612818340,
     "wof:geomhash": "90bd700bbb49763568c2a26183b9158d",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -63,20 +63,20 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930301,
-        "wing_id": 1477855833
+        "venue_id": 1729792627,
+        "wing_id": 1729792579
       },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729778345,
         "region_id": 85688637,
-        "venue_id": 1477930301,
-        "wing_id": 1477855833
+        "venue_id": 1729792627,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729778345,
@@ -86,9 +86,9 @@
       1159286153,
       1477930301
     ],
-    "wof:lastmodified": 1651262729,
+    "wof:lastmodified": 1653097169,
     "wof:name": "QR737 (DOH-SFO)",
-    "wof:parent_id": 1477930301,
+    "wof:parent_id": 1729792627,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],

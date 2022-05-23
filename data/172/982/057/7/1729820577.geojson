@@ -33,30 +33,30 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210218-D-UAL-1212",
     "sfomuseum:flight_number": [
-      "UAL1212", 
+      "UAL1212",
       "UA1212"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N401UA",
     "wof:belongsto": [
-      1477855605, 
-      102527513, 
-      1477855703, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1477930407, 
-      1477855699, 
-      102085387
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1729792387,
+      1729792489,
+      1729792499,
+      1729792487
     ],
     "wof:concordances": {
       "swim:flight_ref": "149305941",
@@ -67,50 +67,52 @@
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855703,
+        "concourse_id": 1729792489,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1729820577,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930407,
-        "wing_id": 1477855699
-      }, 
+        "venue_id": 1729792499,
+        "wing_id": 1729792487
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855703,
+        "concourse_id": 1729792489,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1729820577,
         "region_id": 85688637,
-        "venue_id": 1477930407,
-        "wing_id": 1477855699
+        "venue_id": 1729792499,
+        "wing_id": 1729792487
       }
     ],
     "wof:id": 1729820577,
     "wof:involves": [
-      1159292085, 
-      102536481, 
-      102527513, 
-      1159285413, 
+      1159292085,
+      102536481,
+      102527513,
+      1159285413,
       1477930407
     ],
-    "wof:lastmodified": 1613751146,
+    "wof:lastmodified": 1653097325,
     "wof:name": "UA1212 (SFO-PVR)",
-    "wof:parent_id": 1477930407,
+    "wof:parent_id": 1729792499,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}

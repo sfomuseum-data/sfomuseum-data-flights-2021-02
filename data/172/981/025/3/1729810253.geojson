@@ -33,30 +33,30 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210214-D-FFT-2078",
     "sfomuseum:flight_number": [
-      "FFT2078", 
+      "FFT2078",
       "F92078"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N336FR",
     "wof:belongsto": [
-      1477855605, 
-      102527513, 
-      1477855835, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1477930291, 
-      1477855833, 
-      102085387
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1729792387,
+      1729792581,
+      1729792619,
+      1729792579
     ],
     "wof:concordances": {
       "swim:flight_ref": "149108319"
@@ -66,50 +66,52 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1729810253,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930291,
-        "wing_id": 1477855833
-      }, 
+        "venue_id": 1729792619,
+        "wing_id": 1729792579
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1729810253,
         "region_id": 85688637,
-        "venue_id": 1477930291,
-        "wing_id": 1477855833
+        "venue_id": 1729792619,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729810253,
     "wof:involves": [
-      1377564295, 
-      102527209, 
-      102527513, 
-      1159284401, 
+      1377564295,
+      102527209,
+      102527513,
+      1159284401,
       1477930291
     ],
-    "wof:lastmodified": 1613405555,
+    "wof:lastmodified": 1653097287,
     "wof:name": "F92078 (SFO-LAS)",
-    "wof:parent_id": 1477930291,
+    "wof:parent_id": 1729792619,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

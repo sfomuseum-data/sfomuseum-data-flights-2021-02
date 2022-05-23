@@ -33,28 +33,28 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20210213-A-UAL-277",
     "sfomuseum:flight_number": [
-      "UAL277", 
+      "UAL277",
       "UA277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [
-      1477855605, 
-      102527513, 
-      1477855785, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1477930391, 
-      1477855699, 
-      102085387
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1729792387,
+      1729792551,
+      1729792561,
+      1729792487
     ],
     "wof:concordances": {
       "swim:flight_ref": "149044143",
@@ -65,50 +65,52 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855785,
+        "concourse_id": 1729792551,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1729806819,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930391,
-        "wing_id": 1477855699
-      }, 
+        "venue_id": 1729792561,
+        "wing_id": 1729792487
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855785,
+        "concourse_id": 1729792551,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1729806819,
         "region_id": 85688637,
-        "venue_id": 1477930391,
-        "wing_id": 1477855699
+        "venue_id": 1729792561,
+        "wing_id": 1729792487
       }
     ],
     "wof:id": 1729806819,
     "wof:involves": [
-      1159292085, 
-      102527513, 
-      102528817, 
-      1159285413, 
+      1159292085,
+      102527513,
+      102528817,
+      1159285413,
       1477930391
     ],
-    "wof:lastmodified": 1613319109,
+    "wof:lastmodified": 1653097257,
     "wof:name": "UA277 (IAD-SFO)",
-    "wof:parent_id": 1477930391,
+    "wof:parent_id": 1729792561,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
