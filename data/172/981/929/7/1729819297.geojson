@@ -92,10 +92,13 @@
       1477881719,
       1159284583
     ],
-    "wof:lastmodified": 1653097322,
+    "wof:lastmodified": 1717032987,
     "wof:name": "QR3880 (JFK-SFO)",
     "wof:parent_id": 1729792439,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

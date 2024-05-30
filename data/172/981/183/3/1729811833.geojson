@@ -100,10 +100,13 @@
       102527513,
       102530841
     ],
-    "wof:lastmodified": 1653097294,
+    "wof:lastmodified": 1717032985,
     "wof:name": "B62977 (FLL-SFO)",
     "wof:parent_id": 1729792439,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210217-D-UAL-3017",
     "sfomuseum:flight_number": [
-      "UAL3017", 
+      "UAL3017",
       "UA3017"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N76516",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1613664621,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729818111
+      }
+    ],
     "wof:id": 1729818111,
     "wof:involves": [
-      1159289871, 
-      102534097, 
-      102527513, 
+      1159289871,
+      102534097,
+      102527513,
       1159285413
     ],
-    "wof:lastmodified": 1613664688,
+    "wof:lastmodified": 1717032987,
     "wof:name": "UA3017 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

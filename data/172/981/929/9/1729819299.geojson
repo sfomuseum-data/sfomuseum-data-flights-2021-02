@@ -91,10 +91,13 @@
       1159286153,
       1729792587
     ],
-    "wof:lastmodified": 1653097322,
+    "wof:lastmodified": 1717032987,
     "wof:name": "QR737 (DOH-SFO)",
     "wof:parent_id": 1729792619,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210215-D-UAL-2825",
     "sfomuseum:flight_number": [
-      "UAL2825", 
+      "UAL2825",
       "UA2825"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,26 +50,33 @@
     "wof:country": "US",
     "wof:created": 1613491955,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729813359
+      }
+    ],
     "wof:id": 1729813359,
     "wof:involves": [
-      102527513, 
-      1159285413, 
-      1159293215, 
+      102527513,
+      1159285413,
+      1159293215,
       102528817
     ],
-    "wof:lastmodified": 1613492032,
+    "wof:lastmodified": 1717032985,
     "wof:name": "UA2825 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

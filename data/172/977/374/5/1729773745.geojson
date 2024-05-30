@@ -100,10 +100,13 @@
       1159284489,
       1477930309
     ],
-    "wof:lastmodified": 1653097159,
+    "wof:lastmodified": 1717032983,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1729792637,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

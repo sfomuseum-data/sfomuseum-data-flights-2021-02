@@ -100,10 +100,13 @@
       1477881725,
       1159289871
     ],
-    "wof:lastmodified": 1653097314,
+    "wof:lastmodified": 1717032986,
     "wof:name": "WN3285 (DEN-SFO)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

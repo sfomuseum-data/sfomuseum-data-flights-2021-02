@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210206-D-JAL-1",
     "sfomuseum:flight_number": [
-      "JAL1", 
+      "JAL1",
       "JL1"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1612826763,
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729788199
+      }
+    ],
     "wof:id": 1729788199,
     "wof:involves": [
-      102541591, 
-      102527513, 
-      1159284563, 
+      102541591,
+      102527513,
+      1159284563,
       -1
     ],
-    "wof:lastmodified": 1612826763,
+    "wof:lastmodified": 1717032986,
     "wof:name": "JL1 (SFO-HND)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.554085, 
-    139.775638, 
+    -122.370943,
+    35.554085,
+    139.775638,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[139.775638,35.554085]],"type":"MultiPoint"}

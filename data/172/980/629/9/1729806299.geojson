@@ -31,7 +31,7 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20210213-A-ASA-9805",
     "sfomuseum:flight_number": [
-      "ASA9805", 
+      "ASA9805",
       "AS9805"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,26 +46,33 @@
     "wof:country": "US",
     "wof:created": 1613318605,
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729806299
+      }
+    ],
     "wof:id": 1729806299,
     "wof:involves": [
-      102527513, 
-      102530559, 
-      1159283813, 
+      102527513,
+      102530559,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1613319107,
+    "wof:lastmodified": 1717032985,
     "wof:name": "AS9805 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

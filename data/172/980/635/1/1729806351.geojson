@@ -92,10 +92,13 @@
       1477930283,
       1159283627
     ],
-    "wof:lastmodified": 1653097253,
+    "wof:lastmodified": 1717032983,
     "wof:name": "AZ3548 (CDG-SFO)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

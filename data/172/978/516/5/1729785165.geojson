@@ -86,10 +86,13 @@
       1159285413,
       1477930405
     ],
-    "wof:lastmodified": 1653097183,
+    "wof:lastmodified": 1717032986,
     "wof:name": "UA5700 (ACV-SFO)",
     "wof:parent_id": 1729792573,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

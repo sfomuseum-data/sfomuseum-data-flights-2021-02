@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210223-D-ANA-7",
     "sfomuseum:flight_number": [
-      "ANA7", 
+      "ANA7",
       "NH7"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "JA786A",
@@ -48,26 +48,33 @@
     "wof:country": "US",
     "wof:created": 1614182839,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729833265
+      }
+    ],
     "wof:id": 1729833265,
     "wof:involves": [
-      1159289993, 
-      102551487, 
-      102527513, 
+      1159289993,
+      102551487,
+      102527513,
       1159283875
     ],
-    "wof:lastmodified": 1614183065,
+    "wof:lastmodified": 1717032984,
     "wof:name": "NH7 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

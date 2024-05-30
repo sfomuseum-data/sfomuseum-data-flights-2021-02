@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20210213-A-UAL-2741",
     "sfomuseum:flight_number": [
-      "UAL2741", 
+      "UAL2741",
       "UA2741"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N2142U",
@@ -50,26 +50,33 @@
     "wof:country": "US",
     "wof:created": 1613318745,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729806817
+      }
+    ],
     "wof:id": 1729806817,
     "wof:involves": [
-      102527513, 
-      102533795, 
-      1159285413, 
+      102527513,
+      102533795,
+      1159285413,
       1159289993
     ],
-    "wof:lastmodified": 1613319109,
+    "wof:lastmodified": 1717032984,
     "wof:name": "UA2741 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

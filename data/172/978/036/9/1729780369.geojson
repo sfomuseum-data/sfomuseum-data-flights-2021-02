@@ -86,10 +86,13 @@
       1159285591,
       1477881733
     ],
-    "wof:lastmodified": 1653097173,
+    "wof:lastmodified": 1717032984,
     "wof:name": "WN1394 (MDW-SFO)",
     "wof:parent_id": 1729792453,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

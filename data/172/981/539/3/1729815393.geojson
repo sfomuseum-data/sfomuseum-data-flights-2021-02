@@ -101,10 +101,13 @@
       1159284261,
       1477930361
     ],
-    "wof:lastmodified": 1653097309,
+    "wof:lastmodified": 1717032986,
     "wof:name": "DL931 (SFO-MSP)",
     "wof:parent_id": 1729792415,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

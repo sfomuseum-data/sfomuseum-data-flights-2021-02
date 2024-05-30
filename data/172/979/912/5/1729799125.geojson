@@ -100,10 +100,13 @@
       102527513,
       102533795
     ],
-    "wof:lastmodified": 1653097214,
+    "wof:lastmodified": 1717032986,
     "wof:name": "WN3239 (LAX-SFO)",
     "wof:parent_id": 1729792455,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

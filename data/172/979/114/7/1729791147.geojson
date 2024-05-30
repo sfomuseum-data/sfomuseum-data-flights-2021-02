@@ -96,10 +96,13 @@
       1159284211,
       1477930467
     ],
-    "wof:lastmodified": 1653097193,
+    "wof:lastmodified": 1717032982,
     "wof:name": "CM383 (SFO-PTY)",
     "wof:parent_id": 1729792655,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

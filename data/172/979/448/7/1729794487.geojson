@@ -86,10 +86,13 @@
       1159283649,
       1477930477
     ],
-    "wof:lastmodified": 1653097197,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AI176 (SFO-BLR)",
     "wof:parent_id": 1729792667,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

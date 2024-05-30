@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210218-D-ANZ-9110",
     "sfomuseum:flight_number": [
-      "ANZ9110", 
+      "ANZ9110",
       "NZ9110"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1613750897,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729819943
+      }
+    ],
     "wof:id": 1729819943,
     "wof:involves": [
-      102530049, 
-      102527513, 
-      1159283697, 
-      -1, 
+      102530049,
+      102527513,
+      1159283697,
+      -1,
       1159285413
     ],
-    "wof:lastmodified": 1613750897,
+    "wof:lastmodified": 1717032987,
     "wof:name": "NZ9110 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

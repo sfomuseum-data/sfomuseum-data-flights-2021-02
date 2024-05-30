@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20210201-A-AMX-3073",
     "sfomuseum:flight_number": [
-      "AMX3073", 
+      "AMX3073",
       "AM3073"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1612817427,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729775591
+      }
+    ],
     "wof:id": 1729775591,
     "wof:involves": [
-      102527513, 
-      102534365, 
-      1159283539, 
-      -1, 
+      102527513,
+      102534365,
+      1159283539,
+      -1,
       1159284261
     ],
-    "wof:lastmodified": 1612817427,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AM3073 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

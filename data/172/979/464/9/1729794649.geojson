@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210209-D-ASA-3353",
     "sfomuseum:flight_number": [
-      "ASA3353", 
+      "ASA3353",
       "AS3353"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1612973239,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729794649
+      }
+    ],
     "wof:id": 1729794649,
     "wof:involves": [
-      102534161, 
-      102527513, 
-      1159283813, 
+      102534161,
+      102527513,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1612973239,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AS3353 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210226-D-ASA-1272",
     "sfomuseum:flight_number": [
-      "ASA1272", 
+      "ASA1272",
       "AS1272"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1614442163,
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729843995
+      }
+    ],
     "wof:id": 1729843995,
     "wof:involves": [
-      102536481, 
-      102527513, 
-      1159283813, 
+      102536481,
+      102527513,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1614442163,
+    "wof:lastmodified": 1717032982,
     "wof:name": "AS1272 (SFO-PVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}

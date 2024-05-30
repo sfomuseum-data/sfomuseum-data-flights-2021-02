@@ -92,10 +92,13 @@
       1477930425,
       1159285413
     ],
-    "wof:lastmodified": 1653097192,
+    "wof:lastmodified": 1717032982,
     "wof:name": "AC4342 (SFO-FAT)",
     "wof:parent_id": 1729792515,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

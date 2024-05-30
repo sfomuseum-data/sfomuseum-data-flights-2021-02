@@ -101,10 +101,13 @@
       102534097,
       1159285413
     ],
-    "wof:lastmodified": 1653097315,
+    "wof:lastmodified": 1717032986,
     "wof:name": "UA1808 (IAH-SFO)",
     "wof:parent_id": 1729792499,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

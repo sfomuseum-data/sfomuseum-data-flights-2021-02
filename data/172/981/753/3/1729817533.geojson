@@ -100,10 +100,13 @@
       1159283813,
       1477930357
     ],
-    "wof:lastmodified": 1653097317,
+    "wof:lastmodified": 1717032986,
     "wof:name": "AS1022 (SFO-JFK)",
     "wof:parent_id": 1729792411,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

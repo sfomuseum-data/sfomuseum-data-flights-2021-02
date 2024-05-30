@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210218-D-UAL-425",
     "sfomuseum:flight_number": [
-      "UAL425", 
+      "UAL425",
       "UA425"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1613751084,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729820659
+      }
+    ],
     "wof:id": 1729820659,
     "wof:involves": [
-      102530049, 
-      102527513, 
-      1159285413, 
+      102530049,
+      102527513,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1613751084,
+    "wof:lastmodified": 1717032982,
     "wof:name": "UA425 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

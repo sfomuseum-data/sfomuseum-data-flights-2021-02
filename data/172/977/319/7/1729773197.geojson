@@ -92,10 +92,13 @@
       1477930457,
       1159285413
     ],
-    "wof:lastmodified": 1653097158,
+    "wof:lastmodified": 1717032982,
     "wof:name": "AC5187 (SAN-SFO)",
     "wof:parent_id": 1729792547,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -92,10 +92,13 @@
       1477930377,
       1159285413
     ],
-    "wof:lastmodified": 1653097221,
+    "wof:lastmodified": 1717032987,
     "wof:name": "CM2428 (SFO-PHX)",
     "wof:parent_id": 1729792493,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

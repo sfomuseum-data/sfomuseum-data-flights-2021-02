@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20210217-A-ASA-3375",
     "sfomuseum:flight_number": [
-      "ASA3375", 
+      "ASA3375",
       "AS3375"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1613664201,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729816491
+      }
+    ],
     "wof:id": 1729816491,
     "wof:involves": [
-      102527513, 
-      102533591, 
-      1159283813, 
+      102527513,
+      102533591,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1613664201,
+    "wof:lastmodified": 1717032985,
     "wof:name": "AS3375 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

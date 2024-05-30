@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210227-D-ACA-4212",
     "sfomuseum:flight_number": [
-      "ACA4212", 
+      "ACA4212",
       "AC4212"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1614528469,
     "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729846223
+      }
+    ],
     "wof:id": 1729846223,
     "wof:involves": [
-      102533591, 
-      102527513, 
-      1159283597, 
-      -1, 
+      102533591,
+      102527513,
+      1159283597,
+      -1,
       1159285413
     ],
-    "wof:lastmodified": 1614528469,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AC4212 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}

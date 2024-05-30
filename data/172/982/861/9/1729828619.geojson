@@ -33,7 +33,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210221-D-UAL-2738",
     "sfomuseum:flight_number": [
-      "UAL2738", 
+      "UAL2738",
       "UA2738"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,26 +46,33 @@
     "wof:country": "US",
     "wof:created": 1614010378,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729828619
+      }
+    ],
     "wof:id": 1729828619,
     "wof:involves": [
-      1159289995, 
-      102533997, 
-      102527513, 
+      1159289995,
+      102533997,
+      102527513,
       1159285413
     ],
-    "wof:lastmodified": 1614010470,
+    "wof:lastmodified": 1717032987,
     "wof:name": "UA2738 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

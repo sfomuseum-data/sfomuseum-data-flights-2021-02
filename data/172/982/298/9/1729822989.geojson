@@ -92,10 +92,13 @@
       1729792583,
       1159284613
     ],
-    "wof:lastmodified": 1653097328,
+    "wof:lastmodified": 1717032984,
     "wof:name": "DL9647 (SFO-AMS)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

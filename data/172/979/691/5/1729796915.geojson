@@ -86,10 +86,13 @@
       1159283813,
       1477930355
     ],
-    "wof:lastmodified": 1653097201,
+    "wof:lastmodified": 1717032985,
     "wof:name": "AS3451 (SFO-PDX)",
     "wof:parent_id": 1729792409,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

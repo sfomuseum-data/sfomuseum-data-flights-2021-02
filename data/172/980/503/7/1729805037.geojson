@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210212-D-DAL-8841",
     "sfomuseum:flight_number": [
-      "DAL8841", 
+      "DAL8841",
       "DL8841"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N662DN",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1613232603,
     "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729805037
+      }
+    ],
     "wof:id": 1729805037,
     "wof:involves": [
-      1159289939, 
-      102533331, 
-      102527513, 
+      1159289939,
+      102533331,
+      102527513,
       1159284261
     ],
-    "wof:lastmodified": 1613232791,
+    "wof:lastmodified": 1717032983,
     "wof:name": "DL8841 (SFO-GEG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -117.531916, 
+    -122.370943,
+    37.61799,
+    -117.531916,
     47.625686
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.531916,47.625686]],"type":"MultiPoint"}

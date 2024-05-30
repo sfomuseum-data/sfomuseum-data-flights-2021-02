@@ -92,10 +92,13 @@
       1477930337,
       1159284261
     ],
-    "wof:lastmodified": 1653097250,
+    "wof:lastmodified": 1717032983,
     "wof:name": "WS7284 (SFO-LAX)",
     "wof:parent_id": 1729792481,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -74,10 +74,13 @@
       1159285413,
       1477930443
     ],
-    "wof:lastmodified": 1653097258,
+    "wof:lastmodified": 1717032984,
     "wof:name": "UA5617 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

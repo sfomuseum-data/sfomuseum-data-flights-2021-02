@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102532159,
     "sfomuseum:flight_id": "20210205-A-ASA-1002",
     "sfomuseum:flight_number": [
-      "ASA1002", 
+      "ASA1002",
       "AS1002"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1612824843,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729784405
+      }
+    ],
     "wof:id": 1729784405,
     "wof:involves": [
-      102527513, 
-      102532159, 
-      1159283813, 
+      102527513,
+      102532159,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1612824843,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AS1002 (DCA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.041643, 
+    -122.370943,
+    37.61799,
+    -77.041643,
     38.850639
   ],
   "geometry": {"coordinates":[[-77.041643,38.850639],[-122.370943,37.61799]],"type":"MultiPoint"}

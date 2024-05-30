@@ -86,10 +86,13 @@
       1159285413,
       1477930411
     ],
-    "wof:lastmodified": 1653097319,
+    "wof:lastmodified": 1717032987,
     "wof:name": "UA1491 (SFO-IAD)",
     "wof:parent_id": 1729792505,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

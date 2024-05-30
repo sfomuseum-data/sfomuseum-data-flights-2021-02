@@ -86,10 +86,13 @@
       1159284261,
       1477930323
     ],
-    "wof:lastmodified": 1653097322,
+    "wof:lastmodified": 1717032987,
     "wof:name": "DL3708 (SEA-SFO)",
     "wof:parent_id": 1729792469,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

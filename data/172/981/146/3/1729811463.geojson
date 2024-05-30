@@ -95,10 +95,13 @@
       1477930355,
       1377564297
     ],
-    "wof:lastmodified": 1653097292,
+    "wof:lastmodified": 1717032982,
     "wof:name": "AS347 (FLL-SFO)",
     "wof:parent_id": 1729792409,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

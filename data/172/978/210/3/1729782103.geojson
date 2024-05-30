@@ -86,10 +86,13 @@
       1159283813,
       1477930339
     ],
-    "wof:lastmodified": 1653097176,
+    "wof:lastmodified": 1717032983,
     "wof:name": "AS3369 (PSP-SFO)",
     "wof:parent_id": 1729792393,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

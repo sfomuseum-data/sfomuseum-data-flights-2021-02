@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210209-D-DAL-8842",
     "sfomuseum:flight_number": [
-      "DAL8842", 
+      "DAL8842",
       "DL8842"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1612973273,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729794783
+      }
+    ],
     "wof:id": 1729794783,
     "wof:involves": [
-      102533795, 
-      102527513, 
-      1159284261, 
+      102533795,
+      102527513,
+      1159284261,
       -1
     ],
-    "wof:lastmodified": 1612973273,
+    "wof:lastmodified": 1717032984,
     "wof:name": "DL8842 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

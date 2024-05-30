@@ -99,10 +99,13 @@
       1477930461,
       1159293215
     ],
-    "wof:lastmodified": 1653097269,
+    "wof:lastmodified": 1717032985,
     "wof:name": "UA2244 (SFO-EWR)",
     "wof:parent_id": 1729792649,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -86,10 +86,13 @@
       1159283813,
       1477930353
     ],
-    "wof:lastmodified": 1653097252,
+    "wof:lastmodified": 1717032983,
     "wof:name": "AS1252 (SEA-SFO)",
     "wof:parent_id": 1729792407,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

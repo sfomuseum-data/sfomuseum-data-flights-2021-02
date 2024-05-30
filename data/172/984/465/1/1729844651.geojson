@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210226-D-UAL-4801",
     "sfomuseum:flight_number": [
-      "UAL4801", 
+      "UAL4801",
       "UA4801"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1614442338,
     "wof:geomhash": "2cd389d203adb874c4263efe77e21d43",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729844651
+      }
+    ],
     "wof:id": 1729844651,
     "wof:involves": [
-      102528809, 
-      102527513, 
-      1159285413, 
+      102528809,
+      102527513,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1614442338,
+    "wof:lastmodified": 1717032982,
     "wof:name": "UA4801 (SFO-EGE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -106.91431, 
+    -122.370943,
+    37.61799,
+    -106.91431,
     39.641137
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-106.91431,39.641137]],"type":"MultiPoint"}

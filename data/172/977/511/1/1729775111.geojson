@@ -101,10 +101,13 @@
       1159289871,
       1477930447
     ],
-    "wof:lastmodified": 1653097162,
+    "wof:lastmodified": 1717032985,
     "wof:name": "UA1522 (SFO-SNA)",
     "wof:parent_id": 1729792537,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

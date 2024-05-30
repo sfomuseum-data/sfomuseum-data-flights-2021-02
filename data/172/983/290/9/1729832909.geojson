@@ -33,7 +33,7 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20210223-A-UAL-396",
     "sfomuseum:flight_number": [
-      "UAL396", 
+      "UAL396",
       "UA396"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,26 +46,33 @@
     "wof:country": "US",
     "wof:created": 1614182742,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729832909
+      }
+    ],
     "wof:id": 1729832909,
     "wof:involves": [
-      102533997, 
-      1159285413, 
-      1159289993, 
+      102533997,
+      1159285413,
+      1159289993,
       102527513
     ],
-    "wof:lastmodified": 1614183064,
+    "wof:lastmodified": 1717032983,
     "wof:name": "UA396 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

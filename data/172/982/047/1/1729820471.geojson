@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210218-D-SAA-7383",
     "sfomuseum:flight_number": [
-      "SAA7383", 
+      "SAA7383",
       "SA7383"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1613751035,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729820471
+      }
+    ],
     "wof:id": 1729820471,
     "wof:involves": [
-      102534365, 
-      102527513, 
-      1159285183, 
-      -1, 
+      102534365,
+      102527513,
+      1159285183,
+      -1,
       1159284583
     ],
-    "wof:lastmodified": 1613751035,
+    "wof:lastmodified": 1717032982,
     "wof:name": "SA7383 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

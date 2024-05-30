@@ -98,10 +98,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1653097267,
+    "wof:lastmodified": 1717032985,
     "wof:name": "WN4174 (SFO-LAS)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

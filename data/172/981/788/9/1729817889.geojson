@@ -100,10 +100,13 @@
       1159284623,
       1477930301
     ],
-    "wof:lastmodified": 1653097318,
+    "wof:lastmodified": 1717032987,
     "wof:name": "KE9030 (SFO-ICN)",
     "wof:parent_id": 1729792627,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

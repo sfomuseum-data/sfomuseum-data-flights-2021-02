@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102547051,
     "sfomuseum:flight_id": "20210215-A-CMP-382",
     "sfomuseum:flight_number": [
-      "CMP382", 
+      "CMP382",
       "CM382"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -49,26 +49,33 @@
     "wof:country": "US",
     "wof:created": 1613491486,
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729811621
+      }
+    ],
     "wof:id": 1729811621,
     "wof:involves": [
-      1528104577, 
-      102527513, 
-      102547051, 
+      1528104577,
+      102527513,
+      102547051,
       1159284211
     ],
-    "wof:lastmodified": 1613492028,
+    "wof:lastmodified": 1717032983,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    9.07136, 
-    -79.383499, 
+    -122.370943,
+    9.07136,
+    -79.383499,
     37.61799
   ],
   "geometry": {"coordinates":[[-79.383499,9.07136],[-122.370943,37.61799]],"type":"MultiPoint"}

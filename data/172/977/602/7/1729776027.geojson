@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102526195,
     "sfomuseum:flight_id": "20210201-A-DAL-8919",
     "sfomuseum:flight_number": [
-      "DAL8919", 
+      "DAL8919",
       "DL8919"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1612817546,
     "wof:geomhash": "de3b03e8b66f5797c35a3de70085ba94",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729776027
+      }
+    ],
     "wof:id": 1729776027,
     "wof:involves": [
-      102527513, 
-      102526195, 
-      1159284261, 
+      102527513,
+      102526195,
+      1159284261,
       -1
     ],
-    "wof:lastmodified": 1612817546,
+    "wof:lastmodified": 1717032982,
     "wof:name": "DL8919 (BED-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.288797, 
+    -122.370943,
+    37.61799,
+    -71.288797,
     42.461175
   ],
   "geometry": {"coordinates":[[-71.288797,42.461175],[-122.370943,37.61799]],"type":"MultiPoint"}

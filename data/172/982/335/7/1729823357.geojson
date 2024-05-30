@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210219-D-UAL-1382",
     "sfomuseum:flight_number": [
-      "UAL1382", 
+      "UAL1382",
       "UA1382"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1613837473,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729823357
+      }
+    ],
     "wof:id": 1729823357,
     "wof:involves": [
-      102533795, 
-      102527513, 
-      1159285413, 
+      102533795,
+      102527513,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1613837473,
+    "wof:lastmodified": 1717032985,
     "wof:name": "UA1382 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

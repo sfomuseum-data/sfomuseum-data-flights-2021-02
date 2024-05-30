@@ -86,10 +86,13 @@
       1159283813,
       1477930353
     ],
-    "wof:lastmodified": 1653097261,
+    "wof:lastmodified": 1717032984,
     "wof:name": "AS1302 (SFO-MCO)",
     "wof:parent_id": 1729792407,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

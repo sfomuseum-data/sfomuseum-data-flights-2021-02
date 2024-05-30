@@ -95,10 +95,13 @@
       1159284583,
       1477881719
     ],
-    "wof:lastmodified": 1653097255,
+    "wof:lastmodified": 1717032984,
     "wof:name": "B615 (JFK-SFO)",
     "wof:parent_id": 1729792439,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

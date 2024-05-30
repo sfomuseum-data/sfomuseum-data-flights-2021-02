@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20210207-A-TAP-8492",
     "sfomuseum:flight_number": [
-      "TAP8492", 
+      "TAP8492",
       "TP8492"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1612816717,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729773925
+      }
+    ],
     "wof:id": 1729773925,
     "wof:involves": [
-      102527513, 
-      102530049, 
-      1159285271, 
-      -1, 
+      102527513,
+      102530049,
+      1159285271,
+      -1,
       1159285413
     ],
-    "wof:lastmodified": 1612816717,
+    "wof:lastmodified": 1717032983,
     "wof:name": "TP8492 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

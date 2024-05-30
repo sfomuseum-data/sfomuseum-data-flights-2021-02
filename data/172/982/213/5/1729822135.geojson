@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20210219-A-UAL-1682",
     "sfomuseum:flight_number": [
-      "UAL1682", 
+      "UAL1682",
       "UA1682"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1613837170,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729822135
+      }
+    ],
     "wof:id": 1729822135,
     "wof:involves": [
-      102527513, 
-      102530049, 
-      1159285413, 
+      102527513,
+      102530049,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1613837170,
+    "wof:lastmodified": 1717032983,
     "wof:name": "UA1682 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

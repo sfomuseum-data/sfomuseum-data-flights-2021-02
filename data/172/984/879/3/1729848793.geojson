@@ -92,10 +92,13 @@
       1729792597,
       1159286153
     ],
-    "wof:lastmodified": 1653097345,
+    "wof:lastmodified": 1717032983,
     "wof:name": "AA8132 (SFO-DOH)",
     "wof:parent_id": 1729792627,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

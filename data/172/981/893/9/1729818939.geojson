@@ -99,10 +99,13 @@
       102527513,
       102532251
     ],
-    "wof:lastmodified": 1653097321,
+    "wof:lastmodified": 1717032987,
     "wof:name": "AS430 (PDX-SFO)",
     "wof:parent_id": 1729792397,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
